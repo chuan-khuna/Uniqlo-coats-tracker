@@ -1,0 +1,3770 @@
+{
+  "status": "ok",
+  "result": {
+    "aggregations": {
+      "colors": [
+        {
+          "code": "COL01",
+          "displayCode": "01",
+          "name": "OFF WHITE"
+        },
+        {
+          "code": "COL02",
+          "displayCode": "02",
+          "name": "LIGHT GRAY"
+        },
+        {
+          "code": "COL03",
+          "displayCode": "03",
+          "name": "GRAY"
+        },
+        {
+          "code": "COL09",
+          "displayCode": "09",
+          "name": "BLACK"
+        },
+        {
+          "code": "COL27",
+          "displayCode": "27",
+          "name": "ORANGE"
+        },
+        {
+          "code": "COL32",
+          "displayCode": "32",
+          "name": "BEIGE"
+        },
+        {
+          "code": "COL34",
+          "displayCode": "34",
+          "name": "BROWN"
+        },
+        {
+          "code": "COL45",
+          "displayCode": "45",
+          "name": "YELLOW"
+        },
+        {
+          "code": "COL55",
+          "displayCode": "55",
+          "name": "GREEN"
+        },
+        {
+          "code": "COL56",
+          "displayCode": "56",
+          "name": "OLIVE"
+        },
+        {
+          "code": "COL57",
+          "displayCode": "57",
+          "name": "OLIVE"
+        },
+        {
+          "code": "COL58",
+          "displayCode": "58",
+          "name": "DARK GREEN"
+        },
+        {
+          "code": "COL59",
+          "displayCode": "59",
+          "name": "DARK GREEN"
+        },
+        {
+          "code": "COL63",
+          "displayCode": "63",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL65",
+          "displayCode": "65",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL67",
+          "displayCode": "67",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL68",
+          "displayCode": "68",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL69",
+          "displayCode": "69",
+          "name": "NAVY"
+        }
+      ],
+      "flags": [
+        {
+          "code": "discount",
+          "name": "Sale",
+          "rank": 7,
+          "id": 12,
+          "lazy": true
+        },
+        {
+          "code": "comingSoon",
+          "name": "Coming Soon",
+          "rank": 11,
+          "id": 13,
+          "lazy": false
+        },
+        {
+          "code": "limitedStore",
+          "name": "Limited Store",
+          "rank": 13,
+          "id": 3,
+          "lazy": false
+        }
+      ],
+      "plds": [
+        {
+          "code": "PTB000",
+          "displayCode": "000",
+          "name": "-"
+        }
+      ],
+      "prices": [
+        {
+          "from": 0,
+          "to": 5,
+          "count": 0
+        },
+        {
+          "from": 5,
+          "to": 10,
+          "count": 0
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "count": 0
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "count": 0
+        },
+        {
+          "from": 30,
+          "to": 40,
+          "count": 3
+        },
+        {
+          "from": 40,
+          "to": 50,
+          "count": 0
+        },
+        {
+          "from": 50,
+          "to": 0,
+          "count": 12
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 0,
+          "accumulated": 15,
+          "count": 9
+        },
+        {
+          "rating": 0.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 1,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 1.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 2,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 2.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 3,
+          "accumulated": 6,
+          "count": 1
+        },
+        {
+          "rating": 3.5,
+          "accumulated": 5,
+          "count": 0
+        },
+        {
+          "rating": 4,
+          "accumulated": 5,
+          "count": 2
+        },
+        {
+          "rating": 4.5,
+          "accumulated": 3,
+          "count": 0
+        },
+        {
+          "rating": 5,
+          "accumulated": 3,
+          "count": 3
+        }
+      ],
+      "sizes": [
+        {
+          "code": "SMA001",
+          "displayCode": "001",
+          "name": "XXS"
+        },
+        {
+          "code": "SMA002",
+          "displayCode": "002",
+          "name": "XS"
+        },
+        {
+          "code": "SMA003",
+          "displayCode": "003",
+          "name": "S"
+        },
+        {
+          "code": "SMA004",
+          "displayCode": "004",
+          "name": "M"
+        },
+        {
+          "code": "SMA005",
+          "displayCode": "005",
+          "name": "L"
+        },
+        {
+          "code": "SMA006",
+          "displayCode": "006",
+          "name": "XL"
+        },
+        {
+          "code": "SMA007",
+          "displayCode": "007",
+          "name": "XXL"
+        },
+        {
+          "code": "SMA008",
+          "displayCode": "008",
+          "name": "3XL"
+        }
+      ],
+      "tree": {
+        "genders": [
+          {
+            "id": 6991,
+            "name": "MEN"
+          }
+        ],
+        "classes": [
+          {
+            "id": 7405,
+            "name": "OUTERWEAR"
+          }
+        ],
+        "categories": [
+          {
+            "id": 7491,
+            "name": "Coats & Parkas"
+          }
+        ],
+        "subcategories": [
+          {
+            "id": 37971,
+            "name": "New"
+          },
+          {
+            "id": 7927,
+            "name": "Parkas"
+          },
+          {
+            "id": 14388,
+            "name": "JW Anderson"
+          },
+          {
+            "id": 36041,
+            "name": "Fragment"
+          },
+          {
+            "id": 22076,
+            "name": "Sale"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL59",
+            "displayCode": "59",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Nylon",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Unisex",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/item/augoods_59_449645.jpg",
+              "colorCode": "59"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/item/augoods_65_449645.jpg",
+              "colorCode": "65"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/chip/goods_59_449645_chip.jpg",
+              "colorCode": "59"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/chip/goods_65_449645_chip.jpg",
+              "colorCode": "65"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449645/sub/goods_449645_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449645/sub/augoods_449645_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "449645",
+        "longDescription": "Timeless essentials, remixed.<br><br>- Non-cling nylon fabric with a perfectly crisp feel. <br>- Comes with a storage pouch that features the UNIQLO and MARNI Collection logo. <br>- Hand-painting UNIQLO and MARNI check print.",
+        "name": "MARNI Pocketable Parka",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "79.9000"
+          }
+        },
+        "productId": "E449645-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 3,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 3
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL59",
+            "displayCode": "59",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06970726",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A versatile parka in MARNI’s signature colour palette. Storage pouch features the UNIQLO and MARNI Collection logo.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/449645_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 1,
+        "washingInformation": "Machine Wash, Gentle Or Delicate"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Nylon",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Unisex",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/item/augoods_09_449644.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/item/augoods_58_449644.jpg",
+              "colorCode": "58"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/chip/goods_09_449644_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/chip/goods_58_449644_chip.jpg",
+              "colorCode": "58"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub16.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449644/sub/goods_449644_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449644/sub/augoods_449644_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "449644",
+        "longDescription": "Timeless essentials, remixed.<br><br>- Non-cling nylon fabric with a perfectly crisp feel. <br>- Color block design for a signature MARNI style. <br>- Comes with a storage pouch that features the UNIQLO and MARNI Collection logo.",
+        "name": "MARNI Pocketable Parka",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "79.9000"
+          }
+        },
+        "productId": "E449644-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 8,
+          "fit": 3.125,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 8
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06970708",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A versatile parka in MARNI’s signature colour palette. Storage pouch features the UNIQLO and MARNI Collection logo.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/449644_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 1,
+        "washingInformation": "Machine Wash, Gentle Or Delicate"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 100% Nylon/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/item/augoods_34_455549.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/item/augoods_56_455549.jpg",
+              "colorCode": "56"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/chip/goods_34_455549_chip.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/chip/goods_56_455549_chip.jpg",
+              "colorCode": "56"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/sub/augoods_455549_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/sub/augoods_455549_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/sub/augoods_455549_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/sub/augoods_455549_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/sub/augoods_455549_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455549/sub/augoods_455549_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455549/sub/goods_455549_sub20.jpg"
+            }
+          ]
+        },
+        "l1Id": "455549",
+        "longDescription": "- The fabric has an updated crisp texture, allowing more casual coordination. <br>-  Durable water-repellent coating for light rain. *A water-repellent coating is applied to the surface of the fabric for a longer-lasting water-repellent effect. THE FINISH IS NOT PERMANENT. <br>- UV protection feature. <br>- Pocketable design. <br>- Storage pouch attaches to a loop on the inner left side. <br>- Boxy 3D Cut with a relaxed fit in the body, shoulders, and sleeves. <br>- Spindle cords can be used to adjust the fit of the hem. <br>- Color block design makes coordinating more fun. <br>- Great for casual outdoor styling and camping.",
+        "name": "Pocketable UV Protection Parka",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "59.9000"
+          }
+        },
+        "productId": "E455549-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07166243",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Updated fabric is suitable for sports, outdoor activities, and casual wear.UPF50.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/455549_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Gentle Machine wash cold, Do not dry clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Face: 100% Nylon/ Filling: Body (Minimum 90% Grey Duck Down, 10% Small Feathers)/Hood edge: Outer layer: (Minimum 90% Grey Duck Down, 10% Small Feathers)/Hood edge: Inner layer: 100% Polyester/ Back: 100% Nylon/ Pocket Lining: 100% Polyester/ Down Proof Fabric: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/item/augoods_09_449722.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/item/augoods_24_449722.jpg",
+              "colorCode": "24"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/item/augoods_34_449722.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/item/augoods_57_449722.jpg",
+              "colorCode": "57"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/item/augoods_69_449722.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/chip/goods_09_449722_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/chip/goods_24_449722_chip.jpg",
+              "colorCode": "24"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/chip/goods_34_449722_chip.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/chip/goods_57_449722_chip.jpg",
+              "colorCode": "57"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/chip/goods_69_449722_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/sub/augoods_449722_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/sub/augoods_449722_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449722/sub/augoods_449722_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub16.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449722/sub/goods_449722_sub22.jpg"
+            }
+          ]
+        },
+        "l1Id": "449722",
+        "longDescription": "- The glossy nylon ripstop fabric has been upgraded to 10 denier nylon for a lighter weight and more comfortable feel. <br>- Anti-static lining. <br>- Durable water-repellent coating for light rain. *A water-repellent coating is applied to the surface of the fabric for a longer-lasting water-repellent effect.THE FINISH IS NOT PERMANENT. <br>-750+ Fill Power* high quality down. *by DFB Measurement method<br>-No down pack for Ultra Light Weight.<br>-Pocketable design. Including its own carrying bag. <br>- Updated 3D cut ensures full range of motion through the shoulders. <br>- We’ve added a strip behind the front zipper to keep cold air out. <br>- The storage pouch now fastens with a buckle so it attaches and detaches with a single touch. <br>- The tape on the cuffs is brushed on the inside for a soft touch. <br>- A sleek, sporty fit around the waist with a more roomy fit around the shoulders and chest. <br>- Quilt stitching width decreases from top to bottom, resulting in a sleek visual effect. <br>- Unique design ensures the hood covers the whole head, while the collar stands up neatly without touching the chin. <br>- An incredibly lightweight and warm down layer for everyday styling. <br>- Suitable for sports or casual styling.",
+        "name": "Ultra Light Down Parka (3D Cut)",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "129.9000"
+          }
+        },
+        "productId": "E449722-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.833333333333333,
+          "count": 6,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 5
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07053375",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Suitable for sports or casual wear, with a sleek look and a 3D cut for easy movement.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/449722_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not Dry Clean"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL55",
+            "displayCode": "55",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 83% Polyester, 17% Cotton/ Lining: Body: 100% Polyester/ Hood: 83% Polyester, 17% Cotton/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/item/augoods_27_449619.jpg",
+              "colorCode": "27"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/item/augoods_34_449619.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/item/augoods_45_449619.jpg",
+              "colorCode": "45"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/item/augoods_55_449619.jpg",
+              "colorCode": "55"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/item/augoods_69_449619.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/chip/goods_27_449619_chip.jpg",
+              "colorCode": "27"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/chip/goods_34_449619_chip.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/chip/goods_45_449619_chip.jpg",
+              "colorCode": "45"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/chip/goods_55_449619_chip.jpg",
+              "colorCode": "55"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/chip/goods_69_449619_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449619/sub/augoods_449619_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449619/sub/goods_449619_sub22.jpg"
+            }
+          ]
+        },
+        "l1Id": "449619",
+        "longDescription": "",
+        "name": "Utility Parka",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "99.9000"
+          }
+        },
+        "productId": "E449619-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available early Dec"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07019236",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/449619_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not dry clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Base: 100% Polyester/ Coating: Polyurethane",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_09_449614.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_17_449614.jpg",
+              "colorCode": "17"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_27_449614.jpg",
+              "colorCode": "27"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_32_449614.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_58_449614.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_67_449614.jpg",
+              "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/item/augoods_69_449614.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_09_449614_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_17_449614_chip.jpg",
+              "colorCode": "17"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_27_449614_chip.jpg",
+              "colorCode": "27"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_32_449614_chip.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_58_449614_chip.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_67_449614_chip.jpg",
+              "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/chip/goods_69_449614_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub5.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub6.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449614/sub/augoods_449614_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449614/sub/goods_449614_sub23.jpg"
+            }
+          ]
+        },
+        "l1Id": "449614",
+        "longDescription": "- Made with a moisture-permeable, water-resistant*, durable water-repellent coating for light rain*, and windproof high-performance material. * The product is not fully waterproof. Prolonged exposure to rain may result in water soaking through. *A water-repellent coating is applied to the surface of the fabric for a longer-lasting water-repellent effect. THE FINISH IS NOT PERMANENT.<br>- Comfortable fit for easy movement. <br>- The 3D cut provides ample movement around the shoulders. <br>- A classic parka for any weather conditions.",
+        "name": "Blocktech Parka",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "119.9000"
+          }
+        },
+        "productId": "E449614-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07041796",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Our high-performance BLOCKTECH fabric keeps the elements out and lets moisture escape. 3D cut for freedom of movement.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/449614_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not dry clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/item/augoods_01_447358.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/item/augoods_69_447358.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/chip/goods_01_447358_chip.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/chip/goods_69_447358_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/447358/sub/goods_447358_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447358/sub/augoods_447358_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "447358",
+        "longDescription": "New LifeWear that combines UNIQLO’s focus on design, fit, fabric, and functionality with JW ANDERSON’s focus on traditional British apparel into innovative designs.<br><br>- Cotton twill fabric. <br>- Wear it over a T-shirt for a casual style. <br>- Subtle accent color at the hood. <br>- The hood adjusts with the attached drawstring. <br>- JWA logo embroidery at the chest.",
+        "name": "JW Anderson Oversized Cotton Parka",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "99.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "59.9000"
+          }
+        },
+        "productId": "E447358-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06924116",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "An oversized parka that styles over any top. The colorful hood adds a style accent.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/447358_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine Wash, Gentle Or Delicate"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Base: 100% Polyester/ Coating: Polyurethane",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/item/augoods_03_449039.jpg",
+              "colorCode": "03"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/item/augoods_09_449039.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/item/augoods_69_449039.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/chip/goods_03_449039_chip.jpg",
+              "colorCode": "03"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/chip/goods_09_449039_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/chip/goods_69_449039_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/sub/augoods_449039_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/sub/augoods_449039_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/sub/augoods_449039_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/sub/augoods_449039_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/sub/augoods_449039_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub25.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449039/sub/goods_449039_sub26.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449039/sub/augoods_449039_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "449039",
+        "longDescription": "- Comfortable fit allows easy movement. <br>- Contoured 3D cut in the shoulders allows great range of motion.",
+        "name": "Blocktech Parka",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "119.9000"
+          }
+        },
+        "productId": "E449039-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.545454545454546,
+          "count": 11,
+          "fit": 3.4545454545454546,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 3,
+            "five": 7
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06758683",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "This high-performance parka is water-repellent, windproof, and extremely breathable. Versatile design suited for sports or casual wear. New design has added hidden pocket at the front.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/449039_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 100% Nylon/ Mesh: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/item/augoods_09_446819.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/item/augoods_58_446819.jpg",
+              "colorCode": "58"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/chip/goods_09_446819_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/chip/goods_58_446819_chip.jpg",
+              "colorCode": "58"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub6.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446819/sub/goods_446819_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/446819/sub/augoods_446819_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "446819",
+        "longDescription": "- The crisp, textured fabric makes this parka perfect for casual styling. <br>- Pocketable design. <br>- With UV Protection technology. <br>- Boxy 3D Cut with a relaxed fit in the body, shoulders, and sleeves. <br>- Drawstring at the hem allows you to adjust the fit. <br>- Color block design. <br>- Storage pouch attaches to a loop on the inner left side. <br>- Perfect for outdoor pursuits and casual styling. *Not fireproof or heat-resistant.",
+        "name": "Pocketable UV Protection Anorak Parka",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "59.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "39.9000"
+          }
+        },
+        "productId": "E446819-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.5,
+          "count": 2,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06750874",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "3D Cut for easy movement. Convenient protection against the sun and light rain. Durable water-repellent coating for light rain.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/446819_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine Wash, Gentle Or Delicate"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Face: 100% Cotton/ Back: 65% Polyester, 35% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Unisex",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/item/augoods_68_451545.jpg",
+              "colorCode": "68"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/chip/goods_68_451545_chip.jpg",
+              "colorCode": "68"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/sub/augoods_451545_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/sub/augoods_451545_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/sub/augoods_451545_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/sub/augoods_451545_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451545/sub/goods_451545_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/sub/augoods_451545_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/451545/sub/augoods_451545_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "451545",
+        "longDescription": "Timeless essentials, remixed.<br><br>- Crisp 3-layer fabric. <br>- Oversized coat with a cocoon silhouette. <br>- The high front placket zips up to cover your neck. <br>- Original MARNI logo on the zipper pull. <br>- Colorful lining adds a quintessentially MARNI style accent. <br>- Oversized design. Please refer to the size chart for details.",
+        "name": "MARNI Blocktech Oversized Half Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "249.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "199.9000"
+          }
+        },
+        "productId": "E451545-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4,
+          "count": 3,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 1,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06971997",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Crisp fabric in a comfortable oversized cut. With a colorful accent lining. Style with MARNI Pleated Sleeveless Blouse: 447556 and MARNI Balloon Shape Skirt: 448966",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/451545_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 1,
+        "washingInformation": "Hand Wash"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/item/augoods_63_448971.jpg",
+              "colorCode": "63"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448971/chip/goods_63_448971_chip.jpg",
+              "colorCode": "63"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448971/sub/goods_448971_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448971/sub/goods_448971_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448971/sub/goods_448971_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448971/sub/goods_448971_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448971/sub/augoods_448971_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "448971",
+        "longDescription": "- Textured, non-clingy seersucker fabric. <br>- Relaxed fit with slightly dropped shoulders and a boxy cut. <br>- Roomy sleeves for comfort. <br>- Flap side pockets. <br>- Striped pattern adds a style accent.",
+        "name": "Cotton Parka",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "59.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "39.9000"
+          }
+        },
+        "productId": "E448971-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3.6666666666666665,
+          "count": 3,
+          "fit": 3.6666666666666665,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06751181",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A convenient light outer layer in a roomy cut.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/448971_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine Wash, Gentle Or Delicate"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "66% Polyester, 34% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Unisex",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/item/augoods_57_448934.jpg",
+              "colorCode": "57"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/item/augoods_69_448934.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/chip/goods_57_448934_chip.jpg",
+              "colorCode": "57"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/chip/goods_69_448934_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub5.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/448934/sub/goods_448934_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448934/sub/augoods_448934_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "448934",
+        "longDescription": "Timeless essentials, remixed.<br><br>- Crisp 3-layer fabric. <br>- Oversized coat with a cocoon silhouette. <br>- The high front placket zips up to cover your neck. <br>- Original MARNI logo on the zipper pull. <br>- Colorful lining adds a quintessentially MARNI style accent. <br>- Oversized design. Please refer to the size chart for details.",
+        "name": "MARNI Blocktech Oversized Half Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "249.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "199.9000"
+          }
+        },
+        "productId": "E448934-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.714285714285714,
+          "count": 7,
+          "fit": 3.857142857142857,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 2,
+            "five": 5
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06970003",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Crisp fabric in a comfortable oversized cut. With a colorful accent lining. Style with MARNI Oversized Short Sleeve Shirt: 449635 and MARNI Wide Fit Boxy Shorts: 449563   ",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/448934_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 1,
+        "washingInformation": "Hand Wash"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/item/augoods_32_444985.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/item/augoods_69_444985.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444985/chip/goods_32_444985_chip.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444985/chip/goods_69_444985_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub6.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444985/sub/goods_444985_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444985/sub/goods_444985_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444985/sub/goods_444985_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444985/sub/goods_444985_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444985/sub/augoods_444985_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "444985",
+        "longDescription": "- 100% natural slub cotton. <br>- The perfect light outer layer. <br>- Relaxed fit with slightly dropped shoulders and a boxy cut. <br>- Roomy in the shoulders for a comfortable fit. <br>- Practical flap pockets. <br>- Perfect for pairing with T-shirts and shorts.",
+        "name": "Cotton Parka",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "59.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "39.9000"
+          }
+        },
+        "productId": "E444985-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 3,
+          "fit": 3.3333333333333335,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 3
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06751091",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "The natural feel of cotton. In an airy, relaxed cut.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/444985_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine Wash, Gentle Or Delicate"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 83% Polyester, 17% Cotton/ Lining: Body: 100% Polyester/ Hood: 83% Polyester, 17% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/item/augoods_32_444553.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/item/augoods_45_444553.jpg",
+              "colorCode": "45"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/item/augoods_67_444553.jpg",
+              "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/item/augoods_69_444553.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/chip/goods_32_444553_chip.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/chip/goods_45_444553_chip.jpg",
+              "colorCode": "45"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/chip/goods_67_444553_chip.jpg",
+              "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/chip/goods_69_444553_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub6.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444553/sub/goods_444553_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444553/sub/augoods_444553_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "444553",
+        "longDescription": "- Updated for a more relaxed, casual fit. <br>- Front snaps are easy to operate with one hand. <br>- Practical 5-pocket design features patch pockets with plenty of storage at the waist, patch and zippered chest pockets, and interior pockets. <br>- Pairs well with casual or outdoor styles.",
+        "name": "Utility Parka",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "99.9000"
+          },
+          "promo": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "59.9000"
+          }
+        },
+        "productId": "E444553-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.545454545454546,
+          "count": 11,
+          "fit": 3.5454545454545454,
+          "rateCount": {
+            "one": 0,
+            "two": 1,
+            "three": 0,
+            "four": 2,
+            "five": 8
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06750537",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Practical design with multiple interior and exterior pockets. A convenient parka for leisure or daily wear.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/444553_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand Wash"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL45",
+            "displayCode": "45",
+            "name": "YELLOW",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL55",
+            "displayCode": "55",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Face: 100% Nylon/ Filling: Body: Down (Minimum 90% Grey Duck Down, 10% Small Feathers)/ Filling: Hood Edge, Inner Layer: 100% Polyester/ Back: 100% Nylon/ Down Proof Fabric: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colours that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/item/augoods_02_439806.jpg",
+              "colorCode": "02"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/item/augoods_09_439806.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/item/augoods_45_439806.jpg",
+              "colorCode": "45"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/item/augoods_55_439806.jpg",
+              "colorCode": "55"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/item/augoods_56_439806.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/item/augoods_69_439806.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/chip/goods_02_439806_chip.jpg",
+              "colorCode": "02"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/chip/goods_09_439806_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/chip/goods_45_439806_chip.jpg",
+              "colorCode": "45"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/chip/goods_55_439806_chip.jpg",
+              "colorCode": "55"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/chip/goods_56_439806_chip.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/chip/goods_69_439806_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439806/sub/augoods_439806_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/sub/goods_439806_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/sub/goods_439806_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/sub/goods_439806_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439806/sub/goods_439806_sub21.jpg"
+            }
+          ]
+        },
+        "l1Id": "439806",
+        "longDescription": "- Durable water-repellent coating. <br>- Pocketable design. <br>- Anti-static lining. <br>- Resin-coated lining. <br>- Fill power of 640 or greater. <br>- Matching storage pouch.<br>- Updated with a 3D cut using a single piece of fabric from the back and sides to sleeves, with a three-dimensional shoulder construction for freedom of movement. <br>- The pitch of the stitching becomes narrower from top to bottom, creating a visually sleek look. <br>- A sleek, sporty fit around the waist with a more roomy fit around the shoulders and chest. <br>- The tape on the cuffs is brushed on the inside for a soft touch. <br>- 20 denier lightweight nylon ripstop fabric with a glossy sheen.<br>- Updated with a contrast colour lining. <br>- An incredibly light down layer for everyday warmth.",
+        "name": "Ultra Light Down Parka (3D Cut)",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "AUD",
+              "symbol": "$AU"
+            },
+            "value": "129.9000"
+          }
+        },
+        "productId": "E439806-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3.125,
+          "count": 8,
+          "fit": 2.875,
+          "rateCount": {
+            "one": 3,
+            "two": 0,
+            "three": 1,
+            "four": 1,
+            "five": 3
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "06320490",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 15,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Compact yet warm. Sleek and sporty 3D cut for ease of movement. Durable water-repellent coating for light rain.",
+        "sizeChartUrl": "https://www.uniqlo.com/au/en/size/439806_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand Wash"
+      }
+    ],
+    "pagination": {
+      "count": 15,
+      "total": 15,
+      "offset": 24
+    }
+  }
+}
