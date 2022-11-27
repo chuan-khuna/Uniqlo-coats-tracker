@@ -1,0 +1,2909 @@
+{
+  "status": "ok",
+  "result": {
+    "aggregations": {
+      "colors": [
+        {
+          "code": "COL02",
+          "displayCode": "02",
+          "name": "LIGHT GRAY"
+        },
+        {
+          "code": "COL07",
+          "displayCode": "07",
+          "name": "GRAY"
+        },
+        {
+          "code": "COL08",
+          "displayCode": "08",
+          "name": "DARK GRAY"
+        },
+        {
+          "code": "COL09",
+          "displayCode": "09",
+          "name": "BLACK"
+        },
+        {
+          "code": "COL29",
+          "displayCode": "29",
+          "name": "DARK ORANGE"
+        },
+        {
+          "code": "COL53",
+          "displayCode": "53",
+          "name": "GREEN"
+        },
+        {
+          "code": "COL56",
+          "displayCode": "56",
+          "name": "OLIVE"
+        },
+        {
+          "code": "COL57",
+          "displayCode": "57",
+          "name": "OLIVE"
+        },
+        {
+          "code": "COL58",
+          "displayCode": "58",
+          "name": "DARK GREEN"
+        },
+        {
+          "code": "COL61",
+          "displayCode": "61",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL68",
+          "displayCode": "68",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL69",
+          "displayCode": "69",
+          "name": "NAVY"
+        }
+      ],
+      "flags": [
+        {
+          "code": "discount",
+          "name": "Sale",
+          "rank": 7,
+          "id": 12,
+          "lazy": true
+        },
+        {
+          "code": "comingSoon",
+          "name": "Coming Soon",
+          "rank": 11,
+          "id": 13,
+          "lazy": false
+        },
+        {
+          "code": "limitedStore",
+          "name": "Limited Store",
+          "rank": 13,
+          "id": 3,
+          "lazy": false
+        }
+      ],
+      "plds": [
+        {
+          "code": "PTB000",
+          "displayCode": "000",
+          "name": "-"
+        }
+      ],
+      "prices": [
+        {
+          "from": 0,
+          "to": 500,
+          "count": 0
+        },
+        {
+          "from": 500,
+          "to": 1000,
+          "count": 0
+        },
+        {
+          "from": 1000,
+          "to": 2000,
+          "count": 0
+        },
+        {
+          "from": 2000,
+          "to": 3000,
+          "count": 2
+        },
+        {
+          "from": 3000,
+          "to": 4000,
+          "count": 6
+        },
+        {
+          "from": 4000,
+          "to": 5000,
+          "count": 2
+        },
+        {
+          "from": 5000,
+          "to": 0,
+          "count": 3
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 0,
+          "accumulated": 13,
+          "count": 7
+        },
+        {
+          "rating": 0.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 1,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 1.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 2,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 2.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 3,
+          "accumulated": 6,
+          "count": 1
+        },
+        {
+          "rating": 3.5,
+          "accumulated": 5,
+          "count": 0
+        },
+        {
+          "rating": 4,
+          "accumulated": 5,
+          "count": 0
+        },
+        {
+          "rating": 4.5,
+          "accumulated": 5,
+          "count": 0
+        },
+        {
+          "rating": 5,
+          "accumulated": 5,
+          "count": 5
+        }
+      ],
+      "sizes": [
+        {
+          "code": "SMA002",
+          "displayCode": "002",
+          "name": "XS"
+        },
+        {
+          "code": "SMA003",
+          "displayCode": "003",
+          "name": "S"
+        },
+        {
+          "code": "SMA004",
+          "displayCode": "004",
+          "name": "M"
+        },
+        {
+          "code": "SMA005",
+          "displayCode": "005",
+          "name": "L"
+        },
+        {
+          "code": "SMA006",
+          "displayCode": "006",
+          "name": "XL"
+        },
+        {
+          "code": "SMA007",
+          "displayCode": "007",
+          "name": "XXL"
+        }
+      ],
+      "tree": {
+        "genders": [
+          {
+            "id": 6986,
+            "name": "WOMEN"
+          }
+        ],
+        "classes": [
+          {
+            "id": 8356,
+            "name": "เสื้อตัวนอก"
+          }
+        ],
+        "categories": [
+          {
+            "id": 8395,
+            "name": "เสื้อโค้ท"
+          }
+        ],
+        "subcategories": [
+          {
+            "id": 36011,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Seamless Down ไร้ตะเข็บ เสื้อกันหนาว เสื้อขนเป็ด เสื้อดาวน์ขนเป็ด เสื้อดาวน์"
+          },
+          {
+            "id": 36012,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Hybrid Down Coat ไฮบริด เสื้อกันหนาว เสื้อขนเป็ด เสื้อดาวน์ขนเป็ด เสื้อดาวน์"
+          },
+          {
+            "id": 36014,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Double Face Short ทรงสั้น"
+          },
+          {
+            "id": 36015,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Double Face Long ทรงยาว"
+          },
+          {
+            "id": 36017,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Tailored"
+          },
+          {
+            "id": 29724,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท UNIQLO and MARNI"
+          },
+          {
+            "id": 13251,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Unisex Genderless ใส่ได้ทั้งชายและหญิง ไม่เจาะจงเพศ ยูนิเซ็กซ์ ทั้งชายและหญิง ไร้เพศ แฟชั่นไร้เพศ Gender Neutral Style LGBTQ+ LGBTQ LGBT ไม่จำกัดเพศ ไม่ฝักใจทางเพศ Asexual Ungendered"
+          },
+          {
+            "id": 32722,
+            "name": "ผู้หญิง เสื้อโค้ท โค้ท Sale Price Down สินค้าลดราคา ลดราคา"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 100% โพลิเอสเตอร์/ ผ้าสำลีด้านใน: ส่วนตัว: 90% ขนอ่อนใต้ปีกนก, 10% ขนนก/ ขอบฮู้ด: ด้านใน: 100% โพลิเอสเตอร์/ ผ้าด้านใน: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: 100% โพลิเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/item/thgoods_02_450489.jpg",
+              "colorCode": "02"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/item/thgoods_09_450489.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/item/thgoods_58_450489.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/item/thgoods_68_450489.jpg",
+              "colorCode": "68"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/chip/goods_02_450489_chip.jpg",
+              "colorCode": "02"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/chip/goods_09_450489_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/chip/goods_58_450489_chip.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/chip/goods_68_450489_chip.jpg",
+              "colorCode": "68"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/sub/thgoods_450489_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/sub/thgoods_450489_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/sub/thgoods_450489_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450489/sub/goods_450489_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/sub/thgoods_450489_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/sub/thgoods_450489_sub29.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450489/sub/thgoods_450489_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "450489",
+        "longDescription": "- มีชั้นเคลือบสะท้อนหยดน้ำประสิทธิภาพสูง <br>- ดีไซน์กันลม <br>- เนื้อผ้าน้ำหนักเบา <br>- ปรับดีไซน์ใหม่ในเรื่องความหนาของงานควิลท์ ทรง และหัวซิป โดยคำนึงถึงวัตถุประสงค์การสวมใส่เพื่อเล่นสกีภายใต้ดีไซน์แบบแคชชวลที่ป้องกันอากาศหนาวเย็นได้ <br>- ปรับตำแหน่งช่วงไหล่ให้เลื่อนไปด้านหลังเพื่อประสิทธิภาพในการกันน้ำที่ดียิ่งขึ้น <br>- ใช้เทคนิคการเย็บแบบพิเศษเพื่อให้มีคุณสมบัติในการกันลมและน้ำได้ดีกว่าเดิม <br>- เสื้อโค้ทสั้นที่ใส่กับกระโปรงก็ดูดีหรือจะจับแมทช์กับกางเกงก็ให้ลุคปราดเปรียวไม่แพ้กัน",
+        "name": "เสื้อโค้ท Down ขนเป็ด ไร้ตะเข็บ ทรงสั้น",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "5990.0000"
+          }
+        },
+        "productId": "E450489-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.666666666666667,
+          "count": 3,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 2
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07057737",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ดีไซน์ไร้ตะเข็บช่วยกันลมหนาวและคงความอบอุ่นอยู่เสมอ จับแมทช์ได้กับกระโปรงหรือกางเกงเพื่อเติมแต่งสไตล์ได้อย่างหลากหลาย",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/450489_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น, ห้ามซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 80% โพลิเอสเตอร์, 20% เรยอน/ ผ้าสำลีด้านใน: ร่างกายส่วนบน: 90% ขนอ่อนใต้ปีกนก, 10% ขนนก/ ร่างกายส่วนล่าง: ส่วนแขน: หมวกคลุม: 70% โพลิเอสเตอร์, 30% เรยอน/ ขอบฮู้ด: ด้านนอก: 90% ขนอ่อนใต้ปีกนก, 10% ขนนก/ ขอบฮู้ด: ด้านใน: 100% โพลิเอสเตอร์/ ผ้าด้านใน: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: 100% โพลิเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/item/thgoods_09_450491.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/item/thgoods_34_450491.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/item/thgoods_69_450491.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/chip/goods_09_450491_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/chip/goods_34_450491_chip.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/chip/goods_69_450491_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub29.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450491/sub/thgoods_450491_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "450491",
+        "longDescription": "- เคลือบสะท้อนหยดน้ำ <br>- ซับในมีคุณสมบัติดูดซับความชื้นและสามารถสร้างความอบอุ่นได้จากร่างกาย <br>- เนื้อผ้ามีผิวสัมผัสแบบแมตต์ในสไตล์แคชชวล <br>- โครงสร้างแบบไฮบริดที่ผสานข้อดีของดาวน์ขนเป็ดและการบุนวมเพื่อให้ได้ทั้งความเบาและความอบอุ่น <br>- เลือกใช้ดาวน์ขนเป็ดสำหรับส่วนท่อนบนของร่างกาย ขณะที่บริเวณใต้เอว ฮู้ด และแขนเสื้อจะเป็นการบุนวม <br>- ดีไซน์ไร้ตะเข็บควิลท์ด้านนอกช่วยเสริมลุคให้สวยโฉบเฉี่ยว <br>- ปรับดีไซน์ให้มีความยาวถึงต้นขาเพื่อให้ป้องกันความหนาวเย็นได้ดียิ่งขึ้น <br>- ดีไซน์ทรงให้สวมใส่ได้หลายโอกาสและจับแมทช์กับเสื้อทรงหลวมยิ่งดูดี <br>- ชั้นดาวน์ขนเป็ดที่อุ่นสบายและดูดีมีสไตล์ <br>- ดีไซน์ทรงโฉบเฉี่ยว ปรับชายเสื้อให้มีสไตล์ในแบบของคุณ",
+        "name": "เสื้อโค้ท Hybrid Down",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "4990.0000"
+          }
+        },
+        "productId": "E450491-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.875,
+          "count": 16,
+          "fit": 3.25,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 2,
+            "five": 14
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07057489",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ส่วนผสมที่ลงตัวระหว่างดาวน์ขนเป็ดและนวมที่ให้ทั้งความอบอุ่นและความคล่องตัว ดีไซน์ที่เติมสไตล์ให้กับชุดในทุกๆวัน",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/450491_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น, ห้ามซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 42% ไนลอน, 37% ขนสัตว์, 21% โพลิเอสเตอร์/ ซับในแขน: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านนอก: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านใน: 42% ไนลอน, 37% ขนสัตว์, 21% โพลิเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/item/thgoods_07_450499.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/item/thgoods_31_450499.jpg",
+              "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/item/thgoods_36_450499.jpg",
+              "colorCode": "36"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/chip/goods_07_450499_chip.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/chip/goods_31_450499_chip.jpg",
+              "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/chip/goods_36_450499_chip.jpg",
+              "colorCode": "36"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/sub/thgoods_450499_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/sub/thgoods_450499_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/sub/thgoods_450499_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/sub/thgoods_450499_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450499/sub/goods_450499_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/450499/sub/thgoods_450499_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "450499",
+        "longDescription": "- ผ้าดับเบิ้ลเฟซในลุคพรีเมียม <br>- ทรงหลวมพร้อมดีเทลเดรปที่เผยผิวสัมผัสของเนื้อผ้า <br>- ดีไซน์ปกตั้งที่ด้านหลังช่วยคงความอบอุ่นแม้สวมเสื้อแบบไม่มีปก<br>- เติมความอบอุ่นได้ง่ายๆ ด้วยการสวมใส่แบบเล่นเลเยอร์ <br>- ความยาวแบบเสื้อโค้ทครึ่งตัวเพื่อการแมทช์ชุดได้ง่าย <br>- ดีไซน์เปิดด้านหน้าในสไตล์คาร์ดิแกนทรงหลวม <br>- แต่งสไตล์แบบปิดด้านหน้าเพื่อให้ดูมีสไตล์และดูโฉบเฉี่ยวด้วยลุคเสื้อโค้ทปกตั้ง",
+        "name": "เสื้อโค้ท ทรงสั้น เนื้อผ้า Double Face",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3490.0000"
+          }
+        },
+        "productId": "E450499-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.909090909090909,
+          "count": 11,
+          "fit": 3.8181818181818183,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 10
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07030947",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ดีไซน์เรียบหรูแต่งเดรปอย่างพอเหมาะ ให้ลุคสบายและมีสไตล์ได้ง่ายๆ",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/450499_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ห้ามซัก, ซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 42% ไนลอน, 40% ขนสัตว์, 18% โพลิเอสเตอร์/ ผ้าด้านใน: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านนอก: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านใน: 42% ไนลอน, 40% ขนสัตว์, 18% โพลิเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452378/item/thgoods_08_452378.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452378/item/thgoods_09_452378.jpg",
+              "colorCode": "09"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/chip/goods_08_452378_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/chip/goods_09_452378_chip.jpg",
+              "colorCode": "09"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452378/sub/thgoods_452378_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452378/sub/thgoods_452378_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452378/sub/thgoods_452378_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452378/sub/goods_452378_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452378/sub/thgoods_452378_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "452378",
+        "longDescription": "LifeWear คอลเลคชันใหม่จากยูนิโคล่ที่ผสานดีไซน์ รูปทรงการตัดเย็บ เนื้อผ้าที่เลือกใช้ และประโยชน์ในการใช้งานเข้ากับดีไซน์สไตล์อังกฤษดั้งเดิมที่ทาง JW Anderson ให้ความสำคัญ เพื่อสร้างสรรค์นวัตกรรมแห่งดีไซน์รูปแบบใหม่<br><br>- ทำจากผ้าดับเบิ้ลเฟซ <br>- ทรงตรง <br>- สายคาดเอวถอดได้ <br>- โดดเด่นด้วยสาบเสื้อ <br>- สร้างลุคใหม่ให้กับเสื้อคอเต่าสไตล์คลาสสิกด้วยผ้าดับเบิ้ลเฟซ",
+        "name": "เสื้อโค้ท Double Face พร้อมเข็มขัด JW Anderson",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "4990.0000"
+          }
+        },
+        "productId": "E452378-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07193650",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "เสื้อโค้ทสุดคลาสสิกในรูปลักษณ์ใหม่ที่ดูโดดเด่น เพิ่มทางเลือกในการปรับสไตล์ด้วยสายคาดเอว",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/452378_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ห้ามซัก, ซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 80% โพลิเอสเตอร์, 10% เรยอน, 10% อะคริลิก/ ซับในช่วงตัว: 65% โพลิเอสเตอร์, 35% ฝ้าย/ ซับในแขน: 100% โพลิเอสเตอร์/ ด้านใน: ถุงกระเป๋า: 65% โพลิเอสเตอร์, 35% ฝ้าย/ ส่วนเอว: ถุงกระเป๋า: 100% โพลิเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/item/thgoods_32_453868.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/item/thgoods_57_453868.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/chip/goods_32_453868_chip.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/chip/goods_57_453868_chip.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/sub/thgoods_453868_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/sub/thgoods_453868_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/sub/thgoods_453868_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/sub/thgoods_453868_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453868/sub/goods_453868_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/sub/thgoods_453868_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453868/sub/thgoods_453868_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "453868",
+        "longDescription": "คอลเลคชัน Uniqlo U ผลงานสร้างสรรค์ของทีมดีไซเนอร์นานาชาติที่เปี่ยมด้วยทักษะและความมุ่งมั่น ณ ศูนย์วิจัยและพัฒนาแห่งกรุงปารีส ภายใต้การดูแลของ \"คริสตอฟ เลอแมร์\" ผู้อำนวยการฝ่ายศิลป์<br><br>- ทำจากผ้าโพลีเอสเตอร์วิสโคส <br>- เสื้อโค้ททรงสั้นดีไซน์พับปกได้ ช่วยป้องกันลมหนาวได้ง่ายๆ แค่พับปกขึ้น <br>- สวมใส่แบบเสื้อแจ็คเก็ตที่ทำจากเนื้อผ้าเคลือบผิวได้เมื่อพับปกลง",
+        "name": "เสื้อโค้ท Tailored Uniqlo U",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3490.0000"
+          }
+        },
+        "productId": "E453868-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07174976",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "This tailored coat styles with the collar up or down to suit different styles and weather.",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/453868_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ห้ามซัก, ซักแห้ง"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 100% ไนลอน/ ผ้าสำลีด้านใน: ส่วนตัว: 90% ขนอ่อนใต้ปีกนก, 10% ขนนก/ ขอบฮู้ด: 100% โพลิเอสเตอร์/ ผ้าด้านใน: 100% ไนลอน/ ถุงกระเป๋า: 100% ไนลอน",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/item/goods_53_458847.jpg",
+              "colorCode": "53"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/chip/goods_53_458847_chip.jpg",
+              "colorCode": "53"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/458847/sub/thgoods_458847_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "458847",
+        "longDescription": "ไอเทมที่งดงามเหนือกาลเวลาในสไตล์รีมิกซ์<br><br>- มีคุณสมบัติสะท้อนหยดน้ำอย่างมีประสิทธิภาพ *เคลือบผิวผ้าเพื่อให้คงคุณสมบัติสะท้อนหยดน้ำได้ยาวนาน ผิวเคลือบไม่ได้ติดอยู่ถาวร <br>- เสื้อโค้ททรงโคคูนหลวม <br>- ดาวน์ขนเป็ดฟูนุ่มมีวอลุ่ม <br>- สาบนอกมีซิปช่วยปกปิดลำคอ <br>- ป้ายซิปและกระดุมหน้ามาพร้อมโลโก้ Marni แบบดั้งเดิม <br>- สายปรับกระชับทรงที่ชายเสื้อเพื่อป้องกันลมหนาว <br>- ลายพิมพ์วาดด้วยมือจากคอลเลคชัน UNIQLO and MARNI *สินค้าเป็นทรงหลวม ดูรายละเอียดเพิ่มเติมได้ในตารางขนาด",
+        "name": "เสื้อโค้ท Down ขนเป็ด มีฮู้ด ทรงหลวม มีลาย MARNI",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "6990.0000"
+          }
+        },
+        "productId": "E458847-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "วางจำหน่ายต้นเดือนDec"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07425768",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ไอเทมทรงพองมีวอลุ่มเผยความมีเสน่ห์ของดาวน์ขนเป็ดได้อย่างโดดเด่น ให้ความอบอุ่นและดีไซน์ที่เปี่ยมด้วยคุณภาพ",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/458847_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น, ห้ามซักแห้ง"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL29",
+            "displayCode": "29",
+            "name": "DARK ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL61",
+            "displayCode": "61",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 100% ไนลอน/ ผ้าสำลีด้านใน: ส่วนตัว: 90% ขนอ่อนใต้ปีกนก, 10% ขนนก/ ขอบฮู้ด: 100% โพลิเอสเตอร์/ ผ้าด้านใน: 100% ไนลอน/ ถุงกระเป๋า: 100% ไนลอน",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/item/goods_29_457941.jpg",
+              "colorCode": "29"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/item/goods_61_457941.jpg",
+              "colorCode": "61"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/chip/goods_29_457941_chip.jpg",
+              "colorCode": "29"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/chip/goods_61_457941_chip.jpg",
+              "colorCode": "61"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/457941/sub/thgoods_457941_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/457941/sub/thgoods_457941_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "457941",
+        "longDescription": "ไอเทมที่งดงามเหนือกาลเวลาในสไตล์รีมิกซ์<br><br>- มีคุณสมบัติสะท้อนหยดน้ำอย่างมีประสิทธิภาพ *เคลือบผิวผ้าเพื่อให้คงคุณสมบัติสะท้อนหยดน้ำได้ยาวนาน ผิวเคลือบไม่ได้ติดอยู่ถาวร <br>- เสื้อโค้ททรงโคคูนหลวม <br>- ดาวน์ขนเป็ดฟูนุ่มมีวอลุ่ม <br>- สาบนอกมีซิปช่วยปกปิดลำคอ <br>- ป้ายซิปและกระดุมหน้ามาพร้อมโลโก้ Marni แบบดั้งเดิม <br>- สายปรับกระชับทรงที่ชายเสื้อเพื่อป้องกันลมหนาว <br>- ดีไซน์สีตัดกันในสไตล์ไม่เหมือนใคร *สินค้าเป็นทรงหลวม ดูรายละเอียดเพิ่มเติมได้ในตารางขนาด",
+        "name": "เสื้อโค้ท Down ขนเป็ด มีฮู้ด ทรงหลวม สีพื้น MARNI",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "6990.0000"
+          }
+        },
+        "productId": "E457941-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL29",
+            "displayCode": "29",
+            "name": "DARK ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "วางจำหน่ายต้นเดือนDec"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07425608",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ไอเทมทรงพองมีวอลุ่มเผยความมีเสน่ห์ของดาวน์ขนเป็ดได้อย่างโดดเด่น ให้ความอบอุ่นและดีไซน์ที่เปี่ยมด้วยคุณภาพ",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/457941_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น, ห้ามซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% ไนลอน",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "Unisex",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/item/thgoods_09_449893.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/item/thgoods_29_449893.jpg",
+              "colorCode": "29"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/item/thgoods_30_449893.jpg",
+              "colorCode": "30"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/chip/goods_09_449893_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/chip/goods_29_449893_chip.jpg",
+              "colorCode": "29"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/chip/goods_30_449893_chip.jpg",
+              "colorCode": "30"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449893/sub/goods_449893_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/449893/sub/thgoods_449893_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "449893",
+        "longDescription": "คอลเลคชัน Uniqlo U ผลงานสร้างสรรค์ของทีมดีไซเนอร์นานาชาติที่เปี่ยมด้วยทักษะและความมุ่งมั่น ณ ศูนย์วิจัยและพัฒนาแห่งกรุงปารีส ภายใต้การดูแลของ \"คริสตอฟ เลอแมร์\" ผู้อำนวยการฝ่ายศิลป์<br><br>- ผ้าไนลอน 100% มีคุณสมบัติสะท้อนหยดน้ำ <br>- ดีไซน์กะทัดรัดพับเก็บได้ในช่องกระเป๋าแบบในตัว <br>- ทรงหลวม <br>- เน้นตอบโจทย์การเดินทางในเมืองที่พร้อมรับมือกับทุกสภาพอากาศ <br>- ช่องกระเป๋าขนาดใหญ่ปิดสนิทด้วยกระดุมแป๊ก <br>- สวมทับเสื้อโค้ทได้เพื่อป้องกันฝนที่ตกปรอยๆ",
+        "name": "เสื้อโค้ท พับเก็บได้ ทรงยาว Uniqlo U",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "2990.0000"
+          }
+        },
+        "productId": "E449893-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3.4,
+          "count": 5,
+          "fit": 5,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 2,
+            "four": 0,
+            "five": 2
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL29",
+            "displayCode": "29",
+            "name": "DARK ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07184049",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "เสื้อโค้ทพับเก็บได้เพิ่มความสะดวกขณะเดินทาง ทรงหลวมจับแต่งเล่นเลเยอร์ได้ง่าย",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/449893_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 1,
+        "washingInformation": "ซักมือด้วยน้ำเย็น, ห้ามซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 40% ขนสัตว์, 30% โพลิเอสเตอร์, 30% ไนลอน/ ซับในแขน: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านนอก: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านใน: 40% ขนสัตว์, 30% โพลิเอสเตอร์, 30% ไนลอน",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/item/thgoods_58_452859.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/item/thgoods_69_452859.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/chip/goods_58_452859_chip.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/chip/goods_69_452859_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/sub/thgoods_452859_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/sub/thgoods_452859_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/sub/thgoods_452859_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/sub/thgoods_452859_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452859/sub/goods_452859_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/sub/thgoods_452859_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452859/sub/thgoods_452859_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "452859",
+        "longDescription": "คอลเลคชันภายใต้ความร่วมมือกับ Ines de la Fressange ไอคอนแห่งความชิคเหนือกาลเวลาสไตล์ฝรั่งเศส<br><br>- ทำจากผ้าดับเบิ้ลเฟซผสมวูลที่ทั้งหนาและนุ่ม <br>- ทรงหลวมแต่ดูดีมีสไตล์",
+        "name": "เสื้อโค้ท Chester Field INES DE LA FRESSANGE",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "5990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3990.0000"
+          }
+        },
+        "productId": "E452859-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07122669",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ทรงหลวมเล็กน้อยดูเรียบหรู ผ้าดับเบิ้ลเฟซเพื่อสัมผัสที่นุ่มสบาย",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/452859_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ห้ามซัก, ซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 40% ขนสัตว์, 30% โพลิเอสเตอร์, 30% ไนลอน/ ซับในแขน: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านนอก: 100% โพลิเอสเตอร์/ ถุงกระเป๋า: ด้านใน: 40% ขนสัตว์, 30% โพลิเอสเตอร์, 30% ไนลอน",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/item/thgoods_48_452377.jpg",
+              "colorCode": "48"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/item/thgoods_69_452377.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/chip/goods_48_452377_chip.jpg",
+              "colorCode": "48"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/chip/goods_69_452377_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/sub/thgoods_452377_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/sub/thgoods_452377_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/sub/thgoods_452377_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/sub/thgoods_452377_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/sub/thgoods_452377_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452377/sub/goods_452377_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452377/sub/thgoods_452377_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "452377",
+        "longDescription": "คอลเลคชันภายใต้ความร่วมมือกับ Ines de la Fressange ไอคอนแห่งความชิคเหนือกาลเวลาสไตล์ฝรั่งเศส<br><br>- ทำจากผ้าดับเบิ้ลเฟซผสมวูลที่ทั้งหนาและนุ่ม <br>- ทรงหลวมแต่ดูดีมีสไตล์ <br>- โดดเด่นด้วยปกโค้งมนขนาดใหญ่",
+        "name": "เสื้อโค้ท Pea INES DE LA FRESSANGE",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "4990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3990.0000"
+          }
+        },
+        "productId": "E452377-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL48",
+            "displayCode": "48",
+            "name": "YELLOW",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07122637",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ทรงหลวมเล็กน้อยให้ลุคดูสวยงาม ดีไซน์ปกโค้งมนในสไตล์ที่เป็นเอกลักษณ์ของ Ines",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/452377_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ห้ามซัก, ซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 100% ฝ้าย/ ผ้าด้านใน: 100% ฝ้าย/ ถุงกระเป๋า: 100% ฝ้าย",
+        "designDetail": "",
+        "freeInformation": "- รูปภาพที่แสดง อาจมีสีที่ยังไม่วางจำหน่าย",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/item/thgoods_09_452375.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/item/thgoods_57_452375.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/chip/goods_09_452375_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/chip/goods_57_452375_chip.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452375/sub/goods_452375_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/452375/sub/thgoods_452375_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "452375",
+        "longDescription": "คอลเลคชัน Uniqlo U ผลงานสร้างสรรค์ของทีมดีไซเนอร์นานาชาติที่เปี่ยมด้วยทักษะและความมุ่งมั่น ณ ศูนย์วิจัยและพัฒนาแห่งกรุงปารีส ภายใต้การดูแลของ \"คริสตอฟ เลอแมร์\" ผู้อำนวยการฝ่ายศิลป์<br><br>- ทำจากผ้าคอตตอนแคนวาส <br>- หัวซิปสองตัวซ่อนใต้สาบนอกได้อย่างแนบเนียนเพื่อความคล่องตัวแม้รูดซิปขึ้น <br>- กระเป๋าทรงสูงใส่ของส่วนตัวได้อย่างปลอดภัย",
+        "name": "เสื้อโค้ท มีฮู้ด Uniqlo U",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "4990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3490.0000"
+          }
+        },
+        "productId": "E452375-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07174934",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "เสื้อโค้ททนทานจากผ้าคอตตอนแคนวาส พร้อมหัวซิปด้านหน้าแบบซ่อนในดีไซน์เปี่ยมสไตล์",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/452375_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น, ซักแห้ง"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "ผ้าด้านนอก: 100% ผ้าโพลีเอสเตอร์ [ผ้าสำลีด้านใน] ช่วงตัว: 90% ขนดาวน์, 10% Waterfowlfeathers/ ฮู้ดedge: 100% ผ้าโพลีเอสเตอร์/ ผ้าซับใน: 100% ผ้าโพลีเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/item/goods_02_429468.jpg",
+              "colorCode": "02"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/item/goods_09_429468.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/item/goods_56_429468.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/item/goods_69_429468.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/chip/goods_02_429468_chip.jpg",
+              "colorCode": "02"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/chip/goods_09_429468_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/chip/goods_56_429468_chip.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/chip/goods_69_429468_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429468/sub/goods_429468_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/429468/sub/thgoods_429468_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "429468",
+        "longDescription": "- มาพร้อมคุณสมบัติกันลมและมีน้ำหนักเบา <br>- มีคุณสมบัติสะท้อนหยดน้ำเพื่อความทนทาน<br>- ผิวด้านนอกเป็นผ้าพองฟู ให้สัมผัสนุ่มสบาย <br>- ปรับตำแหน่งการวางฮู้ดใหม่ให้ดูกลมกลืนยิ่งขึ้น <br>- ดีไซน์ไร้ตะเข็บช่วยกันลมและอากาศหนาวได้ดีกว่าเสื้อตัวนอกที่มีการเดินตะเข็บแบบเดิมๆ  <br>- เล่นดีไซน์ช่วงเอวแบบเข้ารูปเพื่อให้ได้ทรงสวยสะดุดตา",
+        "name": "เสื้อโค้ท down ทรงยาว ไร้ตะเข็บ",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "6990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "3990.0000"
+          }
+        },
+        "productId": "E429468-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "05499363",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "ดีไซน์กันลมซ่อนตะเข็บเพื่อการกักเก็บความร้อนที่ดียิ่งขึ้น สวยล้ำสไตล์ในดีไซน์ทรงเพรียว",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/429468_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "[07Gray] ผ้าด้านนอก: 57% ผ้าโพลีเอสเตอร์, 43% ผ้าไนลอน [ผ้าสำลีด้านใน] ช่วงตัว: 90% ขนดาวน์, 10% Waterfowl ขนนก/ ฮู้ดedge: 100% ผ้าโพลีเอสเตอร์/ ผ้าซับใน: 100% ผ้าโพลีเอสเตอร์  [สีอื่นๆ] ผ้าด้านนอก: 100% ผ้าโพลีเอสเตอร์ [ผ้าสำลีด้านใน] ช่วงตัว: 90% ขนดาวน์, 10% Waterfowl ขนนก/ ฮู้ดedge: 100% ผ้าโพลีเอสเตอร์/ ผ้าซับใน: 100% ผ้าโพลีเอสเตอร์",
+        "designDetail": "",
+        "freeInformation": "",
+        "genderName": "ผู้หญิง",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/item/goods_07_429467.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/item/goods_09_429467.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/item/goods_30_429467.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/item/goods_56_429467.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/item/goods_69_429467.jpg",
+              "colorCode": "69"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/item/goods_72_429467.jpg",
+              "colorCode": "72"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/chip/goods_07_429467_chip.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/chip/goods_09_429467_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/chip/goods_30_429467_chip.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/chip/goods_56_429467_chip.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/chip/goods_69_429467_chip.jpg",
+              "colorCode": "69"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/chip/goods_72_429467_chip.jpg",
+              "colorCode": "72"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/sub/goods_429467_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/sub/goods_429467_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/sub/goods_429467_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/sub/goods_429467_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/sub/goods_429467_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429467/sub/goods_429467_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/429467/sub/thgoods_429467_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "429467",
+        "longDescription": "- มีชั้นเคลือบสะท้อนหยดน้ำประสิทธิภาพสูง <br>- สวยเนี้ยบ น้ำหนักเบา และสวมใส่สบาย<br>- ปรับดีไซน์ใหม่กับเนื้อผ้าด้านนอกทรงพองที่ให้สัมผัสนุ่มยิ่งขึ้น <br>- ดีไซน์ไร้ตะเข็บช่วยป้องกันความหนาวเย็นเพื่อความอุ่นสบายอย่างต่อเนื่อง <br>- เย็บด้ายฝีเข็มกว้างเพื่อให้ลุคร่วมสมัยแบบมินิมอล <br>- ช่วงเอวดีไซน์เน้นทรวดทรงให้ลุคดูเพรียว <br>- ปรับดีไซน์ใหม่กับซิปกันน้ำ <br>- เปลี่ยนตำแหน่งของฮู้ดเพื่อให้ลุคสวยได้ทรงยิ่งขึ้น",
+        "name": "เสื้อโค้ทตัวสั้น Down ขนเป็ด ไร้ตะเข็บ",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "5990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "THB",
+              "symbol": "THB"
+            },
+            "value": "2990.0000"
+          }
+        },
+        "productId": "E429467-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.947368421052632,
+          "count": 19,
+          "fit": 3.210526315789474,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 18
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "ปรับราคาลง (สินค้ามีจำนวนจำกัด)"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "05492081",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 13,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "เสื้อโค้ทดาวน์ขนเป็ดไร้ตะเข็บอุ่นสบาย สวยล้ำสไตล์ในดีไซน์ทรงเพรียว",
+        "sizeChartUrl": "https://www.uniqlo.com/th/th/size/429467_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "ซักมือด้วยน้ำเย็น"
+      }
+    ],
+    "pagination": {
+      "count": 13,
+      "total": 13,
+      "offset": 24
+    }
+  }
+}
