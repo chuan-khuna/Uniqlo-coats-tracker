@@ -1,6 +1,5 @@
-{
-  "status": "ok",
-  "result": {
+[
+  {
     "aggregations": {
       "colors": [
         {
@@ -107,11 +106,6 @@
           "code": "COL69",
           "displayCode": "69",
           "name": "NAVY"
-        },
-        {
-          "code": "COL71",
-          "displayCode": "71",
-          "name": "PURPLE"
         },
         {
           "code": "COL72",
@@ -3027,15 +3021,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL71",
-            "displayCode": "71",
-            "name": "PURPLE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[02Light Gray, 12Pink, 71Purple] Face: 100% Nylon/ Filling: Down (Minimum 90% White Duck Down, 10% Small Feathers)/ Back: 100% Nylon/ Down Proof Fabric: 100% Polyester [09Black, 66Blue] Face: 100% Nylon/ Filling: Down (Minimum 90% Grey Duck Down, 10% Small Feathers)/ Back: 100% Nylon/ Down Proof Fabric: 100% Polyester",
@@ -3812,7 +3797,7 @@
     "pagination": {
       "count": 14,
       "total": 14,
-      "offset": 100
+      "offset": 32
     }
   }
-}
+]

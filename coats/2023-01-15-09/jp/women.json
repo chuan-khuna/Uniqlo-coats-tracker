@@ -1,6 +1,5 @@
-{
-  "status": "ok",
-  "result": {
+[
+  {
     "aggregations": {
       "colors": [
         {
@@ -6985,15 +6984,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "promotionText": "",
@@ -7259,4 +7249,4 @@
     "relaxedQueries": [],
     "relaxedQueryItems": []
   }
-}
+]

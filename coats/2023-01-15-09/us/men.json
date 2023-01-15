@@ -1,6 +1,5 @@
-{
-  "status": "ok",
-  "result": {
+[
+  {
     "aggregations": {
       "colors": [
         {
@@ -2966,4 +2965,4 @@
     "relaxedQueries": [],
     "relaxedQueryItems": []
   }
-}
+]

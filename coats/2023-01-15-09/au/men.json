@@ -1,6 +1,5 @@
-{
-  "status": "ok",
-  "result": {
+[
+  {
     "aggregations": {
       "colors": [
         {
@@ -3238,7 +3237,7 @@
     "pagination": {
       "count": 12,
       "total": 12,
-      "offset": 100
+      "offset": 32
     }
   }
-}
+]
