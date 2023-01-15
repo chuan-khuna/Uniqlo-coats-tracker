@@ -1,0 +1,15 @@
+jp:
+  women: https://www.uniqlo.com/jp/api/commerce/v5/ja/products?path=1071%2C1479%2C%2C&offset=0&limit=36&httpFailure=true
+  men: https://www.uniqlo.com/jp/api/commerce/v5/ja/products?path=1072%2C1749%2C%2C&offset=0&limit=36&httpFailure=true
+th:
+  women: https://www.uniqlo.com/th/api/commerce/v3/th/products?path=%2C%2C25991&limit=24&offset=0
+  men: https://www.uniqlo.com/th/api/commerce/v3/th/products?path=%2C%2C25998&limit=24&offset=0
+au:
+  women: https://www.uniqlo.com/au/api/commerce/v3/en/products?path=%2C%2C12987&limit=24&offset=0
+  men: https://www.uniqlo.com/au/api/commerce/v3/en/products?path=%2C%2C13050&limit=24&offset=0
+ca:
+  women: https://www.uniqlo.com/ca/api/commerce/v3/en/products?path=%2C%2C26758&limit=24&offset=0
+  men: https://www.uniqlo.com/ca/api/commerce/v3/en/products?path=%2C%2C26773&limit=24&offset=0
+us:
+  women: https://www.uniqlo.com/us/api/commerce/v5/en/products?path=22210%2C23294%2C%2C&offset=0&limit=36&httpFailure=true
+  men: https://www.uniqlo.com/us/api/commerce/v5/en/products?path=22211%2C23304%2C%2C&offset=0&limit=36&httpFailure=true
