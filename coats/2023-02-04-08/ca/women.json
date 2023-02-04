@@ -1,0 +1,2210 @@
+[
+  {
+    "aggregations": {
+      "colors": [
+        {
+          "code": "COL01",
+          "displayCode": "01",
+          "name": "OFF WHITE"
+        },
+        {
+          "code": "COL08",
+          "displayCode": "08",
+          "name": "DARK GRAY"
+        },
+        {
+          "code": "COL09",
+          "displayCode": "09",
+          "name": "BLACK"
+        },
+        {
+          "code": "COL30",
+          "displayCode": "30",
+          "name": "NATURAL"
+        },
+        {
+          "code": "COL31",
+          "displayCode": "31",
+          "name": "BEIGE"
+        },
+        {
+          "code": "COL32",
+          "displayCode": "32",
+          "name": "BEIGE"
+        },
+        {
+          "code": "COL33",
+          "displayCode": "33",
+          "name": "KHAKI"
+        },
+        {
+          "code": "COL36",
+          "displayCode": "36",
+          "name": "BROWN"
+        },
+        {
+          "code": "COL68",
+          "displayCode": "68",
+          "name": "BLUE"
+        },
+        {
+          "code": "COL69",
+          "displayCode": "69",
+          "name": "NAVY"
+        }
+      ],
+      "flags": [
+        {
+          "code": "discount",
+          "name": "Sale",
+          "rank": 7,
+          "id": 12,
+          "lazy": true
+        },
+        {
+          "code": "comingSoon",
+          "name": "Coming Soon",
+          "rank": 11,
+          "id": 13,
+          "lazy": false
+        },
+        {
+          "code": "limitedStore",
+          "name": "Select Stores",
+          "rank": 13,
+          "id": 3,
+          "lazy": false
+        }
+      ],
+      "plds": [
+        {
+          "code": "PTB000",
+          "displayCode": "000",
+          "name": "-"
+        }
+      ],
+      "prices": [
+        {
+          "from": 0,
+          "to": 5,
+          "count": 0
+        },
+        {
+          "from": 5,
+          "to": 10,
+          "count": 0
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "count": 0
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "count": 0
+        },
+        {
+          "from": 30,
+          "to": 40,
+          "count": 2
+        },
+        {
+          "from": 40,
+          "to": 50,
+          "count": 3
+        },
+        {
+          "from": 50,
+          "to": 0,
+          "count": 4
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 0,
+          "accumulated": 9,
+          "count": 3
+        },
+        {
+          "rating": 0.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 1,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 1.5,
+          "accumulated": 6,
+          "count": 0
+        },
+        {
+          "rating": 2,
+          "accumulated": 6,
+          "count": 1
+        },
+        {
+          "rating": 2.5,
+          "accumulated": 5,
+          "count": 0
+        },
+        {
+          "rating": 3,
+          "accumulated": 5,
+          "count": 1
+        },
+        {
+          "rating": 3.5,
+          "accumulated": 4,
+          "count": 0
+        },
+        {
+          "rating": 4,
+          "accumulated": 4,
+          "count": 1
+        },
+        {
+          "rating": 4.5,
+          "accumulated": 3,
+          "count": 2
+        },
+        {
+          "rating": 5,
+          "accumulated": 1,
+          "count": 1
+        }
+      ],
+      "sizes": [
+        {
+          "code": "SMA001",
+          "displayCode": "001",
+          "name": "XXS"
+        },
+        {
+          "code": "SMA002",
+          "displayCode": "002",
+          "name": "XS"
+        },
+        {
+          "code": "SMA003",
+          "displayCode": "003",
+          "name": "S"
+        },
+        {
+          "code": "SMA004",
+          "displayCode": "004",
+          "name": "M"
+        },
+        {
+          "code": "SMA005",
+          "displayCode": "005",
+          "name": "L"
+        },
+        {
+          "code": "SMA006",
+          "displayCode": "006",
+          "name": "XL"
+        },
+        {
+          "code": "SMA007",
+          "displayCode": "007",
+          "name": "XXL"
+        }
+      ],
+      "tree": {
+        "genders": [
+          {
+            "id": 384,
+            "name": "WOMEN"
+          }
+        ],
+        "classes": [
+          {
+            "id": 470,
+            "name": "OUTERWEAR"
+          }
+        ],
+        "categories": [
+          {
+            "id": 6886,
+            "name": "Coats"
+          }
+        ],
+        "subcategories": [
+          {
+            "id": 6891,
+            "name": "Ultra Light Down"
+          },
+          {
+            "id": 6890,
+            "name": "Trench"
+          },
+          {
+            "id": 12888,
+            "name": "Others"
+          },
+          {
+            "id": 6928,
+            "name": "Sale"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Face: 100% Nylon/ Filling: Body: 90% Down, 10% Waterfowl Feathers/ Hood Edge: 100% Polyester/ Back: 100% Nylon/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/item/cagoods_09_450450.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/item/cagoods_69_450450.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/chip/goods_09_450450_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/chip/goods_69_450450_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/sub/cagoods_450450_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/sub/cagoods_450450_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/sub/cagoods_450450_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub16.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450450/sub/goods_450450_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/sub/cagoods_450450_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/sub/cagoods_450450_sub29.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450450/sub/cagoods_450450_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "450450",
+        "longDescription": "- Matte fabric gives it a sleek impression. <br>- Durable water-repellent coating for light rain. *A water-repellent coating is applied to the surface of the fabric for a longer-lasting water-repellent effect.THE FINISH IS NOT PERMANENT. <br>-750+ Fill Power* high quality down. *by IDFB Measurement method<br>-No down pack for Ultra Light Weight.<br>-Pocketable design. Including its own carrying bag. <br>- Anti-static lining. <br>- Updated cut with a more comfortable fit. <br>- Removable hood that stores inside the stand collar for a sharp look. <br>- Knee-length design for superb warmth.",
+        "name": "ULTRA LIGHT DOWN LONG COAT",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "149.9000"
+          }
+        },
+        "productId": "E450450-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.333333333333333,
+          "count": 9,
+          "fit": 3.111111111111111,
+          "rateCount": {
+            "one": 0,
+            "two": 1,
+            "three": 0,
+            "four": 3,
+            "five": 5
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07057248",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Updated fit for greater comfort. Super warm knee-length design. 750+ Fill Power* high quality down.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/450450_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not dry clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 60% Cotton, 40% Polyester/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/item/cagoods_09_457227.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/item/cagoods_31_457227.jpg",
+              "colorCode": "31"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/chip/goods_09_457227_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/chip/goods_31_457227_chip.jpg",
+              "colorCode": "31"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/sub/cagoods_457227_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/sub/cagoods_457227_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/sub/cagoods_457227_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/sub/cagoods_457227_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/sub/cagoods_457227_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457227/sub/goods_457227_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/457227/sub/cagoods_457227_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "457227",
+        "longDescription": "- Soft premium cotton-blend gabardine fabric. <br>- Durable water-repellent finish. * The finish is not permanent. <br>- The classic trench coat, updated with a shorter length and A-line cut. <br>- Versatile design easily styles up or down. <br>- Leave the buttons undone to create an elegant drape. <br>- Cinch up the waist belt for a different look.",
+        "name": "SHORT TRENCH COAT",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "109.9000"
+          }
+        },
+        "productId": "E457227-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07350714",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "The old-fashioned trench coat, revamped for a look that works with styles from casual to refined.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/457227_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Do not wash, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 60% Cotton, 40% Polyester/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/item/cagoods_09_456071.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/item/cagoods_31_456071.jpg",
+              "colorCode": "31"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/chip/goods_09_456071_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/chip/goods_31_456071_chip.jpg",
+              "colorCode": "31"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/sub/cagoods_456071_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/sub/cagoods_456071_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/sub/cagoods_456071_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/sub/cagoods_456071_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456071/sub/goods_456071_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/456071/sub/cagoods_456071_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "456071",
+        "longDescription": "- Soft premium cotton-blend gabardine fabric. <br>- Durable water-repellent finish. * The finish is not permanent. <br>- Inspired by the classic double-breasted trench coat, in a modern cut with just the right amount of room. <br>- Leave the buttons undone to create an elegant drape. <br>- Cinch the waist belt for a more flattering fit.",
+        "name": "TRENCH COAT",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "129.9000"
+          }
+        },
+        "productId": "E456071-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07382169",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "The traditional trench coat, now in a roomier cut. Belt provides styling options.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/456071_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Do not wash, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL33",
+            "displayCode": "33",
+            "name": "KHAKI",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 70% Cotton, 30% Nylon/ Belts: Outer Layer: 70% Cotton, 30% Nylon/ Belts: Inner Layer: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/item/cagoods_09_458030.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/item/cagoods_30_458030.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/item/cagoods_33_458030.jpg",
+              "colorCode": "33"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/chip/goods_09_458030_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/chip/goods_30_458030_chip.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/chip/goods_33_458030_chip.jpg",
+              "colorCode": "33"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/458030/sub/cagoods_458030_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "458030",
+        "longDescription": "The Uniqlo U collection is the realization of a dedicated and skilled team of international designers based at our Paris Research and Development Center led by Artistic Director Christophe Lemaire.<br><br>- Lightweight cotton nylon fabric. <br>- Durable water-repellent finish. *The finish is not permanent. <br>- Removable hood. <br>- Tab at the collar for opening and closing. <br>- Belt lined with herringbone tape. <br>- With slits. <br>- The back widens under the gun flap for breathability and lightweight comfort.",
+        "name": "UNIQLO U HOODED LONG COAT",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "179.9000"
+          }
+        },
+        "productId": "E458030-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available early Feb"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07449481",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Long hooded coat. An authentic piece with a focus on details and comfort.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/458030_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: Face: 100% Polyester/ Back: 100% Polyester/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/item/cagoods_01_455924.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/item/cagoods_09_455924.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/item/cagoods_32_455924.jpg",
+              "colorCode": "32"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/chip/goods_01_455924_chip.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/chip/goods_09_455924_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/chip/goods_32_455924_chip.jpg",
+              "colorCode": "32"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/sub/cagoods_455924_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/sub/cagoods_455924_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/sub/cagoods_455924_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455924/sub/goods_455924_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/455924/sub/cagoods_455924_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "455924",
+        "longDescription": "- Fluffy windproof fleece fabric. <br>- In a slightly oversized cut that allows for layering. <br>- The generous length is just enough to cover the knees and create a cozy look. <br>- Goes with any outfit.",
+        "name": "WINDPROOF FLEECE TAILORED COAT",
+        "prices": {
+          "base": null,
+          "promo": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "39.9000"
+          }
+        },
+        "productId": "E455924-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 8,
+          "fit": 3.625,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 8
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07300088",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A windproof film provides protection against the cold. A charming tailored coat made of fluffy fabric.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/455924_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Do not dry clean"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 42% Nylon, 40% Wool, 18% Polyester/ Lining: 100% Polyester/ Pocket Lining: Outer Layer: 100% Polyester/ Pocket Lining: Inner Layer: 42% Nylon, 40% Wool, 18% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/452378/item/cagoods_08_452378.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/452378/item/cagoods_09_452378.jpg",
+              "colorCode": "09"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/chip/goods_08_452378_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/chip/goods_09_452378_chip.jpg",
+              "colorCode": "09"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/452378/sub/cagoods_452378_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/452378/sub/cagoods_452378_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/452378/sub/cagoods_452378_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452378/sub/goods_452378_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/452378/sub/cagoods_452378_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "452378",
+        "longDescription": "New LifeWear that combines UNIQLO’s focus on design, fit, fabric, and functionality with JW Anderson’s focus on traditional British apparel into innovative designs.<br><br>- Double-faced fabric. <br>- Straight cut. <br>- Removable belt. <br>- Fly front. <br>- Double-faced fabric brings a new look to the classic soutien collar coat.",
+        "name": "JW ANDERSON DOUBLE FACE BELTED COAT",
+        "prices": {
+          "base": null,
+          "promo": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "49.9000"
+          }
+        },
+        "productId": "E452378-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 2.3333333333333335,
+          "count": 3,
+          "fit": 5,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 2,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Select Stores",
+                "detail": "Select Stores"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07193649",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A distinctive new take on a classic coat. Belted waist for more styling options.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/452378_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Do not wash, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Face: 100% Polyester/ Back: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/item/goods_09_450523.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/item/goods_58_450523.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/item/goods_68_450523.jpg",
+              "colorCode": "68"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/chip/goods_09_450523_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/chip/goods_58_450523_chip.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/chip/goods_68_450523_chip.jpg",
+              "colorCode": "68"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450523/sub/goods_450523_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450523/sub/cagoods_450523_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "450523",
+        "longDescription": "- 3-layer Blocktech fabric with ripstop outer layer. <br>- Durable water-repellent coating for light rain. *A water-repellent coating is applied to the surface of the fabric for a longer-lasting water-repellent effect.THE FINISH IS NOT PERMANENT. <br>- Moisture-permeable, water-resistant, and windproof. <br>- Updated with a sophisticated flared cut that makes it easy to layer. <br>- Soft jersey interior for a smooth feel. <br>- With adjuster buttons at the cuffs to adjust the fit. <br>- Designed with gussets under the arms for ease of movement. <br>- Side slits allow easy movement even when riding a bike.",
+        "name": "BLOCKTECH COAT",
+        "prices": {
+          "base": null,
+          "promo": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "49.9000"
+          }
+        },
+        "productId": "E450523-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3,
+          "count": 3,
+          "fit": 3.3333333333333335,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 1,
+            "four": 0,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07057649",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "High-performance coat with an updated cut that is perfect for layering and everyday situations.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/450523_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not dry clean"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 42% Nylon, 37% Wool, 21% Polyester/ Pocket Lining: Outer Layer: 100% Polyester/ Pocket Lining: Inner Layer: 42% Nylon, 37% Wool, 21% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/item/goods_01_450500.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/item/goods_07_450500.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450500/item/cagoods_09_450500.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/item/goods_32_450500.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450500/item/cagoods_51_450500.jpg",
+              "colorCode": "51"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/chip/goods_01_450500_chip.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/chip/goods_07_450500_chip.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/chip/goods_09_450500_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/chip/goods_32_450500_chip.jpg",
+              "colorCode": "32"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/chip/goods_51_450500_chip.jpg",
+              "colorCode": "51"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450500/sub/cagoods_450500_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/sub/goods_450500_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/sub/goods_450500_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/sub/goods_450500_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/sub/goods_450500_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/sub/goods_450500_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450500/sub/goods_450500_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/450500/sub/cagoods_450500_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "450500",
+        "longDescription": "- Preshrunk double-faced fabric with a premium look. <br>- Relaxed fit and drape that showcases the texture of the fabric. <br>- The silhouette adjusts with a belt at the waist. <br>- Removable belt. <br>- Oversized collar. <br>- A coat that anyone can wear, great for styles from refined to modern.",
+        "name": "DOUBLE FACE LONG COAT",
+        "prices": {
+          "base": null,
+          "promo": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "49.9000"
+          }
+        },
+        "productId": "E450500-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.588235294117647,
+          "count": 17,
+          "fit": 3.823529411764706,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 2,
+            "four": 3,
+            "five": 12
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07030994",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Elegant design with just the right amount of drape for a relaxed look that is easy to style.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/450500_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Do not wash, Dry Clean"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: Face: 100% Polyester/ Back: 100% Polyester/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/item/cagoods_08_449764.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/item/cagoods_30_449764.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/item/cagoods_36_449764.jpg",
+              "colorCode": "36"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/chip/goods_08_449764_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/chip/goods_30_449764_chip.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/chip/goods_36_449764_chip.jpg",
+              "colorCode": "36"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/sub/cagoods_449764_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/sub/cagoods_449764_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/sub/cagoods_449764_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/sub/cagoods_449764_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449764/sub/goods_449764_sub25.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/449764/sub/cagoods_449764_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "449764",
+        "longDescription": "- Fleece outerwear with windproof technology. <br>- A mid-length coat with a soutien collar and buttoned design that creates a casual yet modern feel. <br>- Stylish cocoon silhouette for easy layering.<br>- There may be variations in the appearance of the fleece due to the nature of the fabric and sewing process. These variations are managed by our strict production controls.",
+        "name": "WINDPROOF OUTER SINGLE BREASTED FLEECE COAT",
+        "prices": {
+          "base": null,
+          "promo": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "39.9000"
+          }
+        },
+        "productId": "E449764-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.461538461538462,
+          "count": 13,
+          "fit": 3.3846153846153846,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 3,
+            "five": 9
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07204373",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 9,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Based on customer feedback, our popular Men’s windproof fleece is now also available in our Women’s lineup. It is lightweight, soft, windproof, and keeps you warm.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/449764_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Do not dry clean"
+      }
+    ],
+    "pagination": {
+      "count": 9,
+      "total": 9,
+      "offset": 32
+    }
+  }
+]
