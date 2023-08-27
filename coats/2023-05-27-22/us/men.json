@@ -1,0 +1,1323 @@
+[
+  {
+    "aggregations": {
+      "colors": [
+        {
+          "code": "COL06",
+          "displayCode": "06",
+          "name": "GRAY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GRAY",
+          "hexBackgroundColor": "#dedede"
+        },
+        {
+          "code": "COL08",
+          "displayCode": "08",
+          "name": "DARK GRAY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GRAY",
+          "hexBackgroundColor": "#dedede"
+        },
+        {
+          "code": "COL09",
+          "displayCode": "09",
+          "name": "BLACK",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BLACK",
+          "hexBackgroundColor": "#3d3d3d"
+        },
+        {
+          "code": "COL30",
+          "displayCode": "30",
+          "name": "NATURAL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BEIGE",
+          "hexBackgroundColor": "#efebd4"
+        },
+        {
+          "code": "COL33",
+          "displayCode": "33",
+          "name": "KHAKI",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BROWN",
+          "hexBackgroundColor": "#714e36"
+        },
+        {
+          "code": "COL34",
+          "displayCode": "34",
+          "name": "BROWN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BROWN",
+          "hexBackgroundColor": "#714e36"
+        }
+      ],
+      "flags": [
+        {
+          "id": 12,
+          "code": "discount",
+          "rank": 7,
+          "name": "Sale",
+          "docCount": 5
+        }
+      ],
+      "plds": [
+        {
+          "code": "PTB000",
+          "displayCode": "000",
+          "name": "-",
+          "docCount": 5
+        }
+      ],
+      "sizes": [
+        {
+          "code": "SMA002",
+          "displayCode": "002",
+          "name": "XS",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA004",
+          "displayCode": "004",
+          "name": "M",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA005",
+          "displayCode": "005",
+          "name": "L",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA006",
+          "displayCode": "006",
+          "name": "XL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA007",
+          "displayCode": "007",
+          "name": "XXL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        }
+      ],
+      "prices": [
+        {
+          "from": 0,
+          "to": 10,
+          "count": 0,
+          "key": "*-10.0"
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "count": 0,
+          "key": "10.0-20.0"
+        },
+        {
+          "from": 20,
+          "to": 40,
+          "count": 0,
+          "key": "20.0-40.0"
+        },
+        {
+          "from": 40,
+          "to": 60,
+          "count": 3,
+          "key": "40.0-60.0"
+        },
+        {
+          "from": 60,
+          "to": 80,
+          "count": 2,
+          "key": "60.0-80.0"
+        },
+        {
+          "from": 80,
+          "to": 0,
+          "count": 0,
+          "key": "80.0-*"
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 2.5,
+          "accumulated": 4,
+          "count": 1
+        },
+        {
+          "rating": 3,
+          "accumulated": 3,
+          "count": 0
+        },
+        {
+          "rating": 3.5,
+          "accumulated": 3,
+          "count": 1
+        },
+        {
+          "rating": 4,
+          "accumulated": 2,
+          "count": 2
+        }
+      ],
+      "tree": {
+        "genders": [
+          {
+            "id": 22210,
+            "name": "WOMEN"
+          },
+          {
+            "id": 22211,
+            "name": "MEN"
+          }
+        ],
+        "classes": [
+          {
+            "id": 23294,
+            "name": "Outerwear"
+          },
+          {
+            "id": 23304,
+            "name": "Outerwear"
+          },
+          {
+            "id": 23310,
+            "name": "Sport Utility Wear"
+          },
+          {
+            "id": 27473,
+            "name": "Featured"
+          }
+        ],
+        "categories": [
+          {
+            "id": 23378,
+            "name": "Coats"
+          },
+          {
+            "id": 31906,
+            "name": "Down Jackets & Coats"
+          },
+          {
+            "id": 23328,
+            "name": "Coats"
+          },
+          {
+            "id": 36088,
+            "name": "Outerwear"
+          },
+          {
+            "id": 34668,
+            "name": "Responsibly Made Styles"
+          }
+        ],
+        "subcategories": [
+          {
+            "id": 24166,
+            "name": "Single-Breasted Coats"
+          },
+          {
+            "id": 24165,
+            "name": "Trench Coats"
+          },
+          {
+            "id": 40173,
+            "name": "Rain Coat"
+          },
+          {
+            "id": 32229,
+            "name": "Collaborations"
+          },
+          {
+            "id": 24171,
+            "name": "Others"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "colors": [
+          {
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "Men",
+        "genderCategory": "MEN",
+        "images": {
+          "main": {
+            "30": {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/item/usgoods_30_457988.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/itemvideo/goods_30_457988_video.mp4",
+              "model": []
+            },
+            "06": {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/item/usgoods_06_457988.jpg",
+              "model": []
+            },
+            "08": {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/item/usgoods_08_457988.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "30": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/chip/goods_30_457988_chip.jpg",
+            "06": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/chip/goods_06_457988_chip.jpg",
+            "08": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/chip/goods_08_457988_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/sub/usgoods_457988_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/sub/usgoods_457988_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/sub/usgoods_457988_sub8.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/sub/usgoods_457988_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub13.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457988/sub/goods_457988_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/sub/usgoods_457988_sub28.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/457988/sub/usgoods_457988_sub29.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "457988",
+        "name": "U Oversized Single Breasted Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 49.9
+          },
+          "promo": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 49.9
+          },
+          "isDualPrice": false
+        },
+        "productId": "E457988-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.2,
+          "count": 4
+        },
+        "representative": {
+          "color": {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "Sale",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1681992000,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07460861",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "457988-08-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          {
+            "code": "COL33",
+            "displayCode": "33",
+            "name": "KHAKI",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          }
+        ],
+        "genderName": "Unisex",
+        "genderCategory": "UNISEX",
+        "images": {
+          "main": {
+            "30": {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/item/usgoods_30_458030.jpg",
+              "model": []
+            },
+            "33": {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/item/usgoods_33_458030.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/itemvideo/goods_33_458030_video.mp4",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/item/usgoods_09_458030.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "30": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/chip/goods_30_458030_chip.jpg",
+            "33": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/chip/goods_33_458030_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/chip/goods_09_458030_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub2.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub3.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub8.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub13.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub15.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/458030/sub/goods_458030_sub24.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub28.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/458030/sub/usgoods_458030_sub29.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "458030",
+        "name": "U Hooded Long Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 59.9
+          },
+          "promo": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 59.9
+          },
+          "isDualPrice": false
+        },
+        "productId": "E458030-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3.8,
+          "count": 10
+        },
+        "representative": {
+          "color": {
+            "code": "COL33",
+            "displayCode": "33",
+            "name": "KHAKI",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "Sale",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1683028800,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07449487",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "458030-33-001-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          }
+        ],
+        "genderName": "Men",
+        "genderCategory": "MEN",
+        "images": {
+          "main": {
+            "57": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/item/goods_57_452172.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/item/goods_09_452172.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "57": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/chip/goods_57_452172_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/chip/goods_09_452172_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452172/sub/goods_452172_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/452172/sub/usgoods_452172_sub28.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/452172/sub/usgoods_452172_sub29.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "452172",
+        "name": "U BLOCKTECH Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 79.9
+          },
+          "promo": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 79.9
+          },
+          "isDualPrice": false
+        },
+        "productId": "E452172-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "Sale",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1671541200,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07184107",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "452172-09-001-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "Unisex",
+        "genderCategory": "UNISEX",
+        "images": {
+          "main": {
+            "29": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/item/goods_29_449893.jpg",
+              "model": []
+            },
+            "30": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/item/goods_30_449893.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/item/goods_09_449893.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "29": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/chip/goods_29_449893_chip.jpg",
+            "30": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/chip/goods_30_449893_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/chip/goods_09_449893_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub15.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449893/sub/goods_449893_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/449893/sub/usgoods_449893_sub28.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/449893/sub/usgoods_449893_sub29.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "449893",
+        "name": "U Pocketable Long Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 49.9
+          },
+          "promo": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 49.9
+          },
+          "isDualPrice": false
+        },
+        "productId": "E449893-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 2.7,
+          "count": 7
+        },
+        "representative": {
+          "color": {
+            "code": "COL29",
+            "displayCode": "29",
+            "name": "DARK ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "ORANGE"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "Sale",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1675774800,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07184046",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "449893-29-001-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          }
+        ],
+        "genderName": "Men",
+        "genderCategory": "MEN",
+        "images": {
+          "main": {
+            "17": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_17_442146.jpg",
+              "model": []
+            },
+            "32": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_32_442146.jpg",
+              "model": []
+            },
+            "34": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_34_442146.jpg",
+              "model": []
+            },
+            "37": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_37_442146.jpg",
+              "model": []
+            },
+            "56": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_56_442146.jpg",
+              "model": []
+            },
+            "57": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_57_442146.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_69_442146.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/item/goods_09_442146.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "17": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_17_442146_chip.jpg",
+            "32": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_32_442146_chip.jpg",
+            "34": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_34_442146_chip.jpg",
+            "37": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_37_442146_chip.jpg",
+            "56": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_56_442146_chip.jpg",
+            "57": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_57_442146_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_69_442146_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/chip/goods_09_442146_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub15.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub16.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/subvideo/goods_442146_sub16_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/442146/sub/goods_442146_sub24.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "449728",
+        "name": "Ultra Warm Hybrid Down Coat",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 79.9
+          },
+          "promo": {
+            "currency": {
+              "code": "USD",
+              "symbol": "$"
+            },
+            "value": 79.9
+          },
+          "isDualPrice": false
+        },
+        "productId": "E442146-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.3,
+          "count": 79
+        },
+        "representative": {
+          "color": {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "Sale",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1675774800,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07037680",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA001",
+            "displayCode": "001",
+            "name": "XXS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "449728-34-001-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      }
+    ],
+    "pagination": {
+      "total": 5,
+      "offset": 0,
+      "count": 5
+    },
+    "relaxedQueries": [],
+    "relaxedQueryItems": []
+  }
+]

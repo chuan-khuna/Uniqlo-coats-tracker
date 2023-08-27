@@ -1,0 +1,425 @@
+[
+  {
+    "aggregations": {
+      "colors": [
+        {
+          "code": "COL07",
+          "displayCode": "07",
+          "name": "GRAY"
+        },
+        {
+          "code": "COL09",
+          "displayCode": "09",
+          "name": "BLACK"
+        },
+        {
+          "code": "COL69",
+          "displayCode": "69",
+          "name": "NAVY"
+        }
+      ],
+      "flags": [],
+      "plds": [
+        {
+          "code": "PTB000",
+          "displayCode": "000",
+          "name": "-"
+        }
+      ],
+      "prices": [
+        {
+          "from": 0,
+          "to": 5,
+          "count": 0
+        },
+        {
+          "from": 5,
+          "to": 10,
+          "count": 0
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "count": 0
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "count": 0
+        },
+        {
+          "from": 30,
+          "to": 40,
+          "count": 0
+        },
+        {
+          "from": 40,
+          "to": 50,
+          "count": 0
+        },
+        {
+          "from": 50,
+          "to": 0,
+          "count": 1
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 4.5,
+          "accumulated": 1,
+          "count": 1
+        }
+      ],
+      "sizes": [
+        {
+          "code": "SMA002",
+          "displayCode": "002",
+          "name": "XS"
+        },
+        {
+          "code": "SMA003",
+          "displayCode": "003",
+          "name": "S"
+        },
+        {
+          "code": "SMA004",
+          "displayCode": "004",
+          "name": "M"
+        },
+        {
+          "code": "SMA005",
+          "displayCode": "005",
+          "name": "L"
+        },
+        {
+          "code": "SMA006",
+          "displayCode": "006",
+          "name": "XL"
+        }
+      ],
+      "tree": {
+        "genders": [
+          {
+            "id": 528,
+            "name": "MEN"
+          }
+        ],
+        "classes": [
+          {
+            "id": 529,
+            "name": "OUTERWEAR"
+          }
+        ],
+        "categories": [
+          {
+            "id": 6895,
+            "name": "Coats"
+          }
+        ],
+        "subcategories": [
+          {
+            "id": 6901,
+            "name": "Seamless Down"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 100% Polyester/ Filling: 90% Down, 10% Waterfowl Feathers/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester/ Cuff: 93% Polyester, 7% Spandex",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/item/goods_07_449726.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/item/goods_09_449726.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/item/goods_56_449726.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/item/goods_69_449726.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/chip/goods_07_449726_chip.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/chip/goods_09_449726_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/chip/goods_56_449726_chip.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/chip/goods_69_449726_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449726/sub/goods_449726_sub24.jpg"
+            }
+          ]
+        },
+        "l1Id": "449726",
+        "longDescription": "- The matte fabric is suitable for sporty or casual styling. <br>- Durable water-repellent coating for light rain. *A water-repellent coating is applied to the surface of the fabric for a longer-lasting water-repellent effect.THE FINISH IS NOT PERMANENT. <br>- Windproof design. <br>- Lightweight fabric. <br>- 750+ Fill Power* high quality down. *by DFB Measurement method.<br>- Updated to allow easy movement around the shoulders while maintaining a smart appearance. <br>- Updated construction allows the zipper to be stowed inside the collar when the hood is removed, keeping the collar looking sleek. <br>- Updated to a more versatile single-breasted design with a narrow front placket. <br>- Now with concealed dot buttons on the pockets to allow easy access while keeping your belongings safe. <br>- Seamless, stitch-free design keeps cold air out. <br>- A sleek cut without the usual bulk of a down coat. <br>- Ribbed cuffs made using a seamless circular knitting technique for an improved fit that keeps cold air out. <br>- Simple design for business or casual wear.",
+        "name": "SEAMLESS DOWN COAT",
+        "prices": {
+          "promo": null,
+          "base": {
+            "currency": {
+              "code": "CAD",
+              "symbol": "$"
+            },
+            "value": "249.9000"
+          }
+        },
+        "productId": "E449726-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.5,
+          "count": 4,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 0,
+            "five": 3
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07037574",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 4,
+          "count": 4,
+          "items": [
+            {
+              "id": "1138942834",
+              "ageRange": null,
+              "gender": {
+                "code": 3,
+                "name": "Prefer not to say"
+              },
+              "comment": "This jacket should have been on sale a long time ago, come on….it’s almost May!",
+              "createDate": 1682460438,
+              "fit": 3,
+              "location": "Quebec",
+              "rate": 5,
+              "title": "Can’t wait sale",
+              "name": "Salé",
+              "purchasedSize": "XL"
+            },
+            {
+              "id": "1130171277",
+              "ageRange": 9,
+              "gender": {
+                "code": 3,
+                "name": "Prefer not to say"
+              },
+              "comment": "-3C with 81% humidity in Toronto. Was wearing this with a Merino wool sweater and jeans. Was very cold though it wasn't windy. The coat is poor at keeping the heat in because cold air can sleep in from opening very easily.",
+              "createDate": 1670642410,
+              "fit": 3,
+              "location": "Toronto",
+              "rate": 3,
+              "title": "Great material and simple design. Not warm unless you get a snug fit.",
+              "name": "Anonymous",
+              "purchasedSize": "Other"
+            },
+            {
+              "id": "1129758647",
+              "ageRange": 13,
+              "gender": {
+                "code": 3,
+                "name": "Prefer not to say"
+              },
+              "comment": "perfect fit and very warm!  there is nothing like down!",
+              "createDate": 1670122340,
+              "fit": 3,
+              "location": "Vancouver",
+              "rate": 5,
+              "title": "perfect!",
+              "name": "tinou",
+              "purchasedSize": "Other"
+            },
+            {
+              "id": "1128023487",
+              "ageRange": 9,
+              "gender": {
+                "code": 3,
+                "name": "Prefer not to say"
+              },
+              "comment": "Quality material makes the coat very light and comfortable. The coat is also stylish and quite warm.",
+              "createDate": 1667311185,
+              "fit": 3,
+              "location": "Windsor",
+              "rate": 5,
+              "title": "Excellent",
+              "name": "Cl",
+              "purchasedSize": "Other"
+            }
+          ]
+        },
+        "shortDescription": "No quilted stitching means warmth is maintained. Stylish design for business or casual wear. 750+ Fill Power* high quality down.",
+        "sizeChartUrl": "https://www.uniqlo.com/ca/en/size/449726_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not dry clean"
+      }
+    ],
+    "pagination": {
+      "count": 1,
+      "total": 1,
+      "offset": 32
+    }
+  }
+]
