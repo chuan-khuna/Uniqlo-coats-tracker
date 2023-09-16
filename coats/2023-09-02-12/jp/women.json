@@ -1,0 +1,5334 @@
+[
+  {
+    "aggregations": {
+      "colors": [
+        {
+          "code": "COL01",
+          "displayCode": "01",
+          "name": "OFF WHITE",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "WHITE",
+          "hexBackgroundColor": "#ffffff"
+        },
+        {
+          "code": "COL02",
+          "displayCode": "02",
+          "name": "LIGHT GRAY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GRAY",
+          "hexBackgroundColor": "#dedede"
+        },
+        {
+          "code": "COL03",
+          "displayCode": "03",
+          "name": "GRAY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GRAY",
+          "hexBackgroundColor": "#dedede"
+        },
+        {
+          "code": "COL05",
+          "displayCode": "05",
+          "name": "GRAY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GRAY",
+          "hexBackgroundColor": "#dedede"
+        },
+        {
+          "code": "COL07",
+          "displayCode": "07",
+          "name": "GRAY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GRAY",
+          "hexBackgroundColor": "#dedede"
+        },
+        {
+          "code": "COL09",
+          "displayCode": "09",
+          "name": "BLACK",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BLACK",
+          "hexBackgroundColor": "#3d3d3d"
+        },
+        {
+          "code": "COL30",
+          "displayCode": "30",
+          "name": "NATURAL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BEIGE",
+          "hexBackgroundColor": "#efebd4"
+        },
+        {
+          "code": "COL31",
+          "displayCode": "31",
+          "name": "BEIGE",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BEIGE",
+          "hexBackgroundColor": "#efebd4"
+        },
+        {
+          "code": "COL32",
+          "displayCode": "32",
+          "name": "BEIGE",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BEIGE",
+          "hexBackgroundColor": "#efebd4"
+        },
+        {
+          "code": "COL35",
+          "displayCode": "35",
+          "name": "BROWN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BROWN",
+          "hexBackgroundColor": "#714e36"
+        },
+        {
+          "code": "COL38",
+          "displayCode": "38",
+          "name": "DARK BROWN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BROWN",
+          "hexBackgroundColor": "#714e36"
+        },
+        {
+          "code": "COL39",
+          "displayCode": "39",
+          "name": "DARK BROWN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BROWN",
+          "hexBackgroundColor": "#714e36"
+        },
+        {
+          "code": "COL41",
+          "displayCode": "41",
+          "name": "YELLOW",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "YELLOW",
+          "hexBackgroundColor": "#ffff3f"
+        },
+        {
+          "code": "COL50",
+          "displayCode": "50",
+          "name": "LIGHT GREEN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GREEN",
+          "hexBackgroundColor": "#387d1f"
+        },
+        {
+          "code": "COL53",
+          "displayCode": "53",
+          "name": "GREEN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GREEN",
+          "hexBackgroundColor": "#387d1f"
+        },
+        {
+          "code": "COL56",
+          "displayCode": "56",
+          "name": "OLIVE",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GREEN",
+          "hexBackgroundColor": "#387d1f"
+        },
+        {
+          "code": "COL58",
+          "displayCode": "58",
+          "name": "DARK GREEN",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "GREEN",
+          "hexBackgroundColor": "#387d1f"
+        },
+        {
+          "code": "COL61",
+          "displayCode": "61",
+          "name": "BLUE",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BLUE",
+          "hexBackgroundColor": "#0003f9"
+        },
+        {
+          "code": "COL69",
+          "displayCode": "69",
+          "name": "NAVY",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          },
+          "filterCode": "BLUE",
+          "hexBackgroundColor": "#0003f9"
+        }
+      ],
+      "flags": [
+        {
+          "id": 12,
+          "code": "discount",
+          "rank": 7,
+          "name": "値下げ",
+          "docCount": 6
+        },
+        {
+          "id": 69,
+          "code": "colorSizeLimitedPrice",
+          "rank": 8,
+          "name": "一部色サイズ対象",
+          "docCount": 1
+        },
+        {
+          "id": 6,
+          "code": "salesStart",
+          "rank": 12,
+          "name": "新作",
+          "docCount": 4
+        },
+        {
+          "id": 13,
+          "code": "comingSoon",
+          "rank": 14,
+          "name": "近日販売予定",
+          "docCount": 8
+        },
+        {
+          "id": 3,
+          "code": "limitedStore",
+          "rank": 16,
+          "name": "一部店舗商品",
+          "docCount": 11
+        },
+        {
+          "id": 1,
+          "code": "extraLargeStoreOnly",
+          "rank": 18,
+          "name": "リサイクル素材",
+          "docCount": 1
+        }
+      ],
+      "plds": [
+        {
+          "code": "PTB000",
+          "displayCode": "000",
+          "name": "-",
+          "docCount": 21
+        }
+      ],
+      "sizes": [
+        {
+          "code": "SMA002",
+          "displayCode": "002",
+          "name": "XS",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA003",
+          "displayCode": "003",
+          "name": "S",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA004",
+          "displayCode": "004",
+          "name": "M",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA005",
+          "displayCode": "005",
+          "name": "L",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA006",
+          "displayCode": "006",
+          "name": "XL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA007",
+          "displayCode": "007",
+          "name": "XXL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA008",
+          "displayCode": "008",
+          "name": "3XL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        },
+        {
+          "code": "SMA009",
+          "displayCode": "009",
+          "name": "4XL",
+          "display": {
+            "showFlag": true,
+            "chipType": 0
+          }
+        }
+      ],
+      "prices": [
+        {
+          "from": 0,
+          "to": 500,
+          "count": 0,
+          "key": "*-500.0"
+        },
+        {
+          "from": 0,
+          "to": 1000,
+          "count": 0,
+          "key": "*-1000.0"
+        },
+        {
+          "from": 0,
+          "to": 2000,
+          "count": 0,
+          "key": "*-2000.0"
+        },
+        {
+          "from": 0,
+          "to": 3000,
+          "count": 1,
+          "key": "*-3000.0"
+        },
+        {
+          "from": 0,
+          "to": 4000,
+          "count": 2,
+          "key": "*-4000.0"
+        },
+        {
+          "from": 0,
+          "to": 5000,
+          "count": 2,
+          "key": "*-5000.0"
+        },
+        {
+          "from": 0,
+          "to": 6000,
+          "count": 4,
+          "key": "*-6000.0"
+        },
+        {
+          "from": 0,
+          "to": 7000,
+          "count": 5,
+          "key": "*-7000.0"
+        },
+        {
+          "from": 0,
+          "to": 8000,
+          "count": 6,
+          "key": "*-8000.0"
+        },
+        {
+          "from": 0,
+          "to": 9000,
+          "count": 6,
+          "key": "*-9000.0"
+        },
+        {
+          "from": 9000,
+          "to": 0,
+          "count": 15,
+          "key": "9000.0-*"
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 3,
+          "accumulated": 8,
+          "count": 1
+        },
+        {
+          "rating": 3.5,
+          "accumulated": 7,
+          "count": 0
+        },
+        {
+          "rating": 4,
+          "accumulated": 7,
+          "count": 5
+        },
+        {
+          "rating": 4.5,
+          "accumulated": 2,
+          "count": 2
+        }
+      ],
+      "tree": {
+        "genders": [
+          {
+            "id": 1071,
+            "name": "Women"
+          },
+          {
+            "id": 1072,
+            "name": "Men"
+          }
+        ],
+        "classes": [
+          {
+            "id": 1480,
+            "name": "トップス"
+          },
+          {
+            "id": 1479,
+            "name": "アウター"
+          },
+          {
+            "id": 2305,
+            "name": "スポーツユーティリティウェア"
+          },
+          {
+            "id": 1749,
+            "name": "アウター"
+          }
+        ],
+        "categories": [
+          {
+            "id": 46920,
+            "name": "フリース"
+          },
+          {
+            "id": 1757,
+            "name": "コート"
+          },
+          {
+            "id": 1497,
+            "name": "コート"
+          },
+          {
+            "id": 1509,
+            "name": "ウルトラライトダウン・パフテック"
+          },
+          {
+            "id": 46919,
+            "name": "ダウン"
+          },
+          {
+            "id": 36227,
+            "name": "アウター"
+          }
+        ],
+        "subcategories": [
+          {
+            "id": 46870,
+            "name": "ダブルフェイス"
+          },
+          {
+            "id": 46872,
+            "name": "ウルトラライトダウン"
+          },
+          {
+            "id": 46873,
+            "name": "ダウン"
+          },
+          {
+            "id": 38546,
+            "name": "ショートコート"
+          },
+          {
+            "id": 3627,
+            "name": "トレンチコート"
+          },
+          {
+            "id": 3631,
+            "name": "ステンカラーコート"
+          },
+          {
+            "id": 50483,
+            "name": "UNIQLO : C"
+          },
+          {
+            "id": 37630,
+            "name": "COMPTOIR DES COTONNIERS"
+          },
+          {
+            "id": 20297,
+            "name": "男女兼用"
+          },
+          {
+            "id": 2592,
+            "name": "その他"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "30": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/item/goods_30_460927.jpg",
+              "model": []
+            },
+            "32": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/item/goods_32_460927.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/item/goods_09_460927.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "30": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/chip/goods_30_460927_chip.jpg",
+            "32": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/chip/goods_32_460927_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/chip/goods_09_460927_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/subvideo/goods_460927_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460927/sub/goods_460927_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/460927/sub/jpgoods_460927_sub28.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460927",
+        "name": "ダブルフェイスロングコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460927-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "salesStart",
+                "name": "新作",
+                "rank": 12,
+                "id": 6,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1693155600,
+                  "end": 1694365200
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07707445",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460927-32-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "WHITE"
+          },
+          {
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/item/goods_69_460926.jpg",
+              "model": []
+            },
+            "01": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/item/goods_01_460926.jpg",
+              "model": []
+            },
+            "03": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/item/goods_03_460926.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/chip/goods_69_460926_chip.jpg",
+            "01": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/chip/goods_01_460926_chip.jpg",
+            "03": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/chip/goods_03_460926_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/subvideo/goods_460926_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460926/sub/goods_460926_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/460926/sub/jpgoods_460926_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/460926/sub/jpgoods_460926_sub28.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460926",
+        "name": "ダブルフェイスショートコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 9990
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460926-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4,
+          "count": 3
+        },
+        "representative": {
+          "color": {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "WHITE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "salesStart",
+                "name": "新作",
+                "rank": 12,
+                "id": 6,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1693155600,
+                  "end": 1694365200
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07753581",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460926-01-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "31": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/item/goods_31_460917.jpg",
+              "model": []
+            },
+            "38": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/item/goods_38_460917.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/item/goods_69_460917.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/item/goods_09_460917.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "31": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/chip/goods_31_460917_chip.jpg",
+            "38": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/chip/goods_38_460917_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/chip/goods_69_460917_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/chip/goods_09_460917_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/subvideo/goods_460917_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub15.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub16.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/sub/goods_460917_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/460917/sub/jpgoods_460917_sub28.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460917/subvideo/goods_460917_sub28_video.mp4",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460917",
+        "name": "ウルトラライトダウンロングコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460917-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "salesStart",
+                "name": "新作",
+                "rank": 12,
+                "id": 6,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1693155600,
+                  "end": 1694365200
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07584052",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460917-38-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL39",
+            "displayCode": "39",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "39": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/item/goods_39_460924.jpg",
+              "model": []
+            },
+            "56": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/item/goods_56_460924.jpg",
+              "model": []
+            },
+            "02": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/item/goods_02_460924.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/item/goods_09_460924.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "39": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/chip/goods_39_460924_chip.jpg",
+            "56": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/chip/goods_56_460924_chip.jpg",
+            "02": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/chip/goods_02_460924_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/chip/goods_09_460924_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/subvideo/goods_460924_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub15.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub16.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/subvideo/goods_460924_sub16_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460924/sub/goods_460924_sub24.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/460924/sub/jpgoods_460924_sub28.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460924",
+        "name": "ハイブリッドダウンコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460924-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL39",
+            "displayCode": "39",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "salesStart",
+                "name": "新作",
+                "rank": 12,
+                "id": 6,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1693155600,
+                  "end": 1694365200
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07797138",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460924-39-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "WHITE"
+          },
+          {
+            "code": "COL50",
+            "displayCode": "50",
+            "name": "LIGHT GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "50": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/item/goods_50_463284.jpg",
+              "model": []
+            },
+            "01": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/item/goods_01_463284.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "50": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/chip/goods_50_463284_chip.jpg",
+            "01": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/chip/goods_01_463284_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub8.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463284/sub/goods_463284_sub21.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "463284",
+        "name": "コットントレンチコート（コントワーデコトニエ）",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 34900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E463284-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL50",
+            "displayCode": "50",
+            "name": "LIGHT GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1680022800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07643111",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "463284-50-004-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          }
+        ],
+        "genderName": "男女兼用",
+        "genderCategory": "UNISEX",
+        "images": {
+          "main": {
+            "38": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/item/goods_38_459630001.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "38": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/chip/goods_38_459630001_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/sub/goods_459630001_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/sub/goods_459630001_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/sub/goods_459630001_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/sub/goods_459630001_sub11.jpg",
+              "model": []
+            },
+            {
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630001/subvideo/goods_459630001_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/459630001/sub/jpgoods_459630001_sub28.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "459630",
+        "name": "シングルブレストコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E459630-001",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "l2Id": "07824058",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "459630-38-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA009",
+            "displayCode": "009",
+            "name": "4XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "男女兼用",
+        "genderCategory": "UNISEX",
+        "images": {
+          "main": {
+            "38": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/item/goods_38_459630.jpg",
+              "model": []
+            },
+            "56": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/item/goods_56_459630.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/item/goods_69_459630.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "38": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/chip/goods_38_459630_chip.jpg",
+            "56": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/chip/goods_56_459630_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/chip/goods_69_459630_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub2.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub4.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub13.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/subvideo/goods_459630_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459630/sub/goods_459630_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/459630/sub/jpgoods_459630_sub28.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "459630",
+        "name": "シングルブレストコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E459630-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3,
+          "count": 1
+        },
+        "representative": {
+          "color": {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": []
+          },
+          "l2Id": "07642561",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "459630-56-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA009",
+            "displayCode": "009",
+            "name": "4XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "30": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/item/goods_30_452657.jpg",
+              "model": []
+            },
+            "31": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/item/goods_31_452657.jpg",
+              "model": []
+            },
+            "38": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/item/goods_38_452657.jpg",
+              "model": []
+            },
+            "79": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/item/goods_79_452657.jpg",
+              "model": []
+            },
+            "07": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/item/goods_07_452657.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/item/goods_09_452657.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "30": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/chip/goods_30_452657_chip.jpg",
+            "31": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/chip/goods_31_452657_chip.jpg",
+            "38": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/chip/goods_38_452657_chip.jpg",
+            "79": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/chip/goods_79_452657_chip.jpg",
+            "07": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/chip/goods_07_452657_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/chip/goods_09_452657_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/sub/goods_452657_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/sub/goods_452657_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/sub/goods_452657_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452657/sub/goods_452657_sub19.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "452657",
+        "name": "パウダーフィールダウンショートコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 7990
+          },
+          "promo": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 7990
+          },
+          "isDualPrice": false
+        },
+        "productId": "E452657-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.4,
+          "count": 649
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "値下げ",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1674493200,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07057528",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "452657-09-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "31": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/item/goods_31_457227.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/item/goods_09_457227.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "31": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/chip/goods_31_457227_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/chip/goods_09_457227_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub8.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/subvideo/goods_457227_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub15.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457227/sub/goods_457227_sub23.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "457227",
+        "name": "ショートトレンチコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 2990
+          },
+          "promo": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 2990
+          },
+          "isDualPrice": false
+        },
+        "productId": "E457227-000",
+        "priceGroup": "01",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.2,
+          "count": 193
+        },
+        "representative": {
+          "color": {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "値下げ",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1683565200,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              },
+              {
+                "code": "colorSizeLimitedPrice",
+                "name": "一部色サイズ対象",
+                "rank": 8,
+                "id": 69,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 0,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07350715",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "457227-31-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "30": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/item/goods_30_456070.jpg",
+              "model": []
+            },
+            "56": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/item/goods_56_456070.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/item/goods_69_456070.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "30": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/chip/goods_30_456070_chip.jpg",
+            "56": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/chip/goods_56_456070_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/chip/goods_69_456070_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub8.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub13.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub14.jpg",
+              "model": []
+            },
+            {
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/subvideo/goods_456070_sub16_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456070/sub/goods_456070_sub22.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "456070",
+        "name": "ステンカラーコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 3990
+          },
+          "promo": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 3990
+          },
+          "isDualPrice": false
+        },
+        "productId": "E456070-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.2,
+          "count": 114
+        },
+        "representative": {
+          "color": {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "値下げ",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1683565200,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07378550",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "456070-56-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "53": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/item/goods_53_458847.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "53": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/chip/goods_53_458847_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458847/sub/goods_458847_sub24.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "458847",
+        "name": "オーバーサイズダウンコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 5990
+          },
+          "promo": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 5990
+          },
+          "isDualPrice": false
+        },
+        "productId": "E458847-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.5,
+          "count": 60
+        },
+        "representative": {
+          "color": {
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "値下げ",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1673888400,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1667314800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07425767",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "458847-53-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL61",
+            "displayCode": "61",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "29": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/item/goods_29_457941.jpg",
+              "model": []
+            },
+            "61": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/item/goods_61_457941.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "29": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/chip/goods_29_457941_chip.jpg",
+            "61": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/chip/goods_61_457941_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub14.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457941/sub/goods_457941_sub24.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "457941",
+        "name": "オーバーサイズダウンコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 5990
+          },
+          "promo": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 5990
+          },
+          "isDualPrice": false
+        },
+        "productId": "E457941-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.5,
+          "count": 92
+        },
+        "representative": {
+          "color": {
+            "code": "COL29",
+            "displayCode": "29",
+            "name": "DARK ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "ORANGE"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "値下げ",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1673888400,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1667314800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07425607",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "457941-29-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "34": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/item/goods_34_450491.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/item/goods_69_450491.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/item/goods_09_450491.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "34": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/chip/goods_34_450491_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/chip/goods_69_450491_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/chip/goods_09_450491_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub14.jpg",
+              "model": []
+            },
+            {
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/subvideo/goods_450491_sub16_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450491/sub/goods_450491_sub20.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "450491",
+        "name": "ハイブリッドダウンコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 9990
+          },
+          "promo": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 9990
+          },
+          "isDualPrice": false
+        },
+        "productId": "E450491-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.3,
+          "count": 825
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "name": "値下げ",
+                "rank": 7,
+                "id": 12,
+                "type": "price_flag",
+                "effectiveTime": {
+                  "start": 1672074000,
+                  "end": 0
+                },
+                "flagColor": "discount"
+              }
+            ],
+            "productFlags": []
+          },
+          "l2Id": "07057512",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": true,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "450491-69-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL05",
+            "displayCode": "05",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          {
+            "code": "COL41",
+            "displayCode": "41",
+            "name": "YELLOW",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "YELLOW"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "41": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/item/goods_41_461808.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/item/goods_69_461808.jpg",
+              "model": []
+            },
+            "05": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/item/goods_05_461808.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "41": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/chip/goods_41_461808_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/chip/goods_69_461808_chip.jpg",
+            "05": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/chip/goods_05_461808_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/subvideo/goods_461808_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub23.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "461808",
+        "name": "ダブルフェイスラップコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E461808-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL41",
+            "displayCode": "41",
+            "name": "YELLOW",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "YELLOW"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月中旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1694739600,
+                  "end": 1694739600
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_mid",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1692118800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07702445",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "461808-41-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "34": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/item/goods_34_460925.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/item/goods_69_460925.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/item/goods_09_460925.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "34": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/chip/goods_34_460925_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/chip/goods_69_460925_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/chip/goods_09_460925_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/subvideo/goods_460925_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460925/sub/goods_460925_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/460925/sub/jpgoods_460925_sub28.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460925",
+        "name": "ウルトラウォームハイブリッドダウンロングコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 19900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460925-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月下旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1695574800,
+                  "end": 1695574800
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_late",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1689087600,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07761048",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460925-69-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GREEN"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "31": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/item/goods_31_460922.jpg",
+              "model": []
+            },
+            "58": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/item/goods_58_460922.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/item/goods_69_460922.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/item/goods_09_460922.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "31": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/chip/goods_31_460922_chip.jpg",
+            "58": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/chip/goods_58_460922_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/chip/goods_69_460922_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/chip/goods_09_460922_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub12.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/subvideo/goods_460922_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460922/sub/goods_460922_sub21.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460922",
+        "name": "シームレスダウンロングコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 17900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460922-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月下旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1695574800,
+                  "end": 1695574800
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_late",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1689087600,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07691444",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460922-69-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLUE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "31": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/item/goods_31_460908.jpg",
+              "model": []
+            },
+            "69": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/item/goods_69_460908.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "31": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/chip/goods_31_460908_chip.jpg",
+            "69": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/chip/goods_69_460908_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub2.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub8.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/subvideo/goods_460908_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub21.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub22.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub23.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460908/sub/goods_460908_sub24.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "460908",
+        "name": "トレンチコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E460908-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月中旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1694739600,
+                  "end": 1694739600
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_mid",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1692118800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07702357",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "460908-31-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "32": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/item/goods_32_461361002.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "32": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/chip/goods_32_461361002_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/subvideo/goods_461361002_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361002/sub/goods_461361002_sub21.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "461361",
+        "name": "パフテックオーバーサイズコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E461361-002",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月中旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1694739600,
+                  "end": 1694739600
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_mid",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1692118800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07705554",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "461361-32-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL35",
+            "displayCode": "35",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "35": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/item/goods_35_461361001.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/item/goods_09_461361001.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "35": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/chip/goods_35_461361001_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/chip/goods_09_461361001_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/subvideo/goods_461361001_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361001/sub/goods_461361001_sub21.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "461361",
+        "name": "パフテックオーバーサイズコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E461361-001",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL35",
+            "displayCode": "35",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BROWN"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月中旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1694739600,
+                  "end": 1694739600
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_mid",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1692118800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07705570",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "461361-35-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "32": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/item/goods_32_461361.jpg",
+              "model": []
+            },
+            "35": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/item/goods_35_461361.jpg",
+              "model": []
+            },
+            "07": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/item/goods_07_461361.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/item/goods_09_461361.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "32": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/chip/goods_32_461361_chip.jpg",
+            "35": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/chip/goods_35_461361_chip.jpg",
+            "07": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/chip/goods_07_461361_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/chip/goods_09_461361_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/subvideo/goods_461361_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub20.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461361/sub/goods_461361_sub21.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "461361",
+        "name": "パフテックオーバーサイズコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 12900
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E461361-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "GRAY"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月中旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1694739600,
+                  "end": 1694739600
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_mid",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1692118800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07705522",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "461361-07-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      },
+      {
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BLACK"
+          },
+          {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          }
+        ],
+        "genderName": "WOMEN",
+        "genderCategory": "WOMEN",
+        "images": {
+          "main": {
+            "32": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/item/goods_32_461658.jpg",
+              "model": []
+            },
+            "09": {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/item/goods_09_461658.jpg",
+              "model": []
+            }
+          },
+          "chip": {
+            "32": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/chip/goods_32_461658_chip.jpg",
+            "09": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/chip/goods_09_461658_chip.jpg"
+          },
+          "sub": [
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub1.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub7.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub9.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub11.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub14.jpg",
+              "video": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/subvideo/goods_461658_sub14_video.mp4",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub17.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub18.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub19.jpg",
+              "model": []
+            },
+            {
+              "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461658/sub/goods_461658_sub20.jpg",
+              "model": []
+            }
+          ]
+        },
+        "l1Id": "461658",
+        "name": "ボアフリーススタンドカラーコート",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "JPY",
+              "symbol": "¥"
+            },
+            "value": 6990
+          },
+          "promo": null,
+          "isDualPrice": false
+        },
+        "productId": "E461658-000",
+        "priceGroup": "00",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "representative": {
+          "color": {
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            },
+            "filterCode": "BEIGE"
+          },
+          "flags": {
+            "priceFlags": [],
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "name": "9月中旬販売予定",
+                "rank": 14,
+                "id": 13,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1694739600,
+                  "end": 1694739600
+                },
+                "flagColor": "normal",
+                "nameWording": {
+                  "flagWithTime": "text_csoon_mid",
+                  "substitutions": {
+                    "month": "9月"
+                  }
+                }
+              },
+              {
+                "code": "limitedStore",
+                "name": "一部店舗商品",
+                "rank": 16,
+                "id": 3,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 1692118800,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              },
+              {
+                "code": "extraLargeStoreOnly",
+                "name": "リサイクル素材",
+                "rank": 18,
+                "id": 1,
+                "type": "product_flag",
+                "effectiveTime": {
+                  "start": 0,
+                  "end": 0
+                },
+                "flagColor": "normal"
+              }
+            ]
+          },
+          "l2Id": "07774763",
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "sales": false,
+          "size": {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "communicationCode": "461658-32-002-000"
+        },
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "promotionText": "",
+        "storeStockOnly": false
+      }
+    ],
+    "pagination": {
+      "total": 21,
+      "offset": 0,
+      "count": 21
+    },
+    "relaxedQueries": [],
+    "relaxedQueryItems": []
+  }
+]
